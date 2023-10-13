@@ -59,32 +59,19 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #EXTINF: -1 tvg-logo="http://www.yupptv.com/yupptvnew/channels/et-now-swadesh/live/embed" group-title="INDIA"
 /embed" frameborder="0" width="560" height="315" gesture="media" allow="encrypted-media"
 
+#EXTINF: -1 tvg-logo="http://www.yupptv.com/yupptvnew/channels/bhakti-tv/live/embed" frameborder="0" width="560" height="315" gesture="media" allow="encrypted-media"
+group-title="INDIA", Bhakti TV live
+http://www.yupptv.com/yupptvnew/channels/bhakti-tv/live/embed
 
 
-#EXTINF: -1 tvg-logo="http://www.yupptv.com/yupptvnew/channels/mazhavil-manorama-hd/live/embed" group-title="INDIA", manorama-hd/live/embed" frameborder="0" width="560" height="315" gesture="media" a
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/6P6mhKf/20230811-153646.png" group-title="LOKAL", TV ONE
-https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type==
-#EXTINF: -1 tvg-logo="isi"
-http://www.yupptv.com/yupptvnew/channels/mazhavil-manorama-hd/live/embed
-
-#KODIPROP:inputstream.adaptive.license_type=
-#EXTINF: -1 tvg-logo="isi"
-http://www.yupptv.com/yupptvnew/channels/et-now-swadesh/live/embed
-
-#KODIPROP:inputstream.adaptive.license_type=www.yupptv.com/livetv
-#EXTINF: -1 tvg-logo=""
-http://www.yupptv.com/yupptvnew/channels/mazhavil-manorama-hd/live/embed
-
-#KODIPROP:inputstream.adaptive.license_type=www.yupptv.com/livetv
-#EXTINF: -1 tvg-logo=""
-http://www.yupptv.com/yupptvnew/channels/et-now-swadesh/live/embed
+#EXTINF: -1 tvg-logo="ISI" group-title="INDIA", ISI
 
 
-#KODIPROP:inputstream.adaptive.license_type=www.yupptv.com/livetv
-#EXTINF: -1 tvg-logo=""
-http://www.yupptv.com/yupptvnew/channels/bbo-classic/live/embed
+#EXTINF: -1 tvg-logo="ISI" group-title="INDIA", ISI
+
+
+#EXTINF: -1 tvg-logo="ISI" group-title="INDIA", ISI
+
+
+#EXTINF: -1 tvg-logo="ISI" group-title="INDIA", ISI
