@@ -1,12 +1,23 @@
 #EXTM3U
 group-title="powered ERnesto"
 
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="#ERNESTO 🇲🇨LIGA BRI 1🇲🇨#", Real Madrid TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="#ERNESTO 🇲🇨LIGA BRI 1🇲🇨#", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="#ERNESTO 🇲🇨LIGA BRI 1🇲🇨#",MU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Useesport" tvg-logo="https://images.useetv.com/logo_useesport_small.png?v=4.3" group-title="#ERNESTO 🇲🇨LIGA BRI 1🇲🇨#",Useesport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/useetl1.m3u8
+
+#EXTINF:-1 tvg-name="Useesport2" tvg-logo="https://images.useetv.com/logo_useesports2_small.png?v=1.2" group-title="#ERNESTO 🇲🇨LIGA BRI 1🇲🇨#",Useesport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/useetl2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YdipfBb.png" group-title="#ERNESTO 🇲🇨LIGA BRI 1🇲🇨#
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#ERNESTO 🇲🇨LIGA BRI 1🇲🇨#", INDOSIAR S1
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/162138
@@ -1958,6 +1969,3 @@ http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4xu3huBe6vSm7ERsyS9G0kEuVXAy
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/3/3c/Vancouver_Whitecaps_FC_Logo.svg/1200px-Vancouver_Whitecaps_FC_Logo.svg.png" group-title="MLS", MLS 29
 http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4xu3huBe6vSm7ERsyS9G0kFbgkIADNVtXZP7VYEAI5lV
-
-
-
