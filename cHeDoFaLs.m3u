@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF: -1 tvp-logo=https:"//watch.plex.tv/live-tv/channel/the-film-detective" group-title="TEST EDO", THE FILM DETECTIVE
+https://watch.plex.tv/live-tv/channel/the-film-detective?utm_source=mediaverse&utm_medium=share
+
+#EXTINF: -1 tvp-logo=" group-title="TEST EDO", JAIL
+https://watch.plex.tv/live-tv/channel/jail?utm_source=mediaverse&utm_medium=share
+
+#EXTINF: -1 tvp-logo=" group-title="TEST EDO", NOSEY
+https://watch.plex.tv/live-tv/channel/nosey?utm_source=mediaverse&utm_medium=share
+
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/ZfMHVxv/1692186547784.png" group-title="LOKAL", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
