@@ -2,6 +2,6 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF: -1 tvg-logo="AXN" group-title="REQUEST", 
+#EXTINF: -1 tvg-logo="https://www.google.com/search?q=logo+axn&tbm=isch&chips=q:logo+axn,online_chips:movies:DxUOsFuIhdg%3D&client=ms-android-transsion&hl=id&sa=X&ved=2ahUKEwjWrvvKo_aBAxVLmmMGHYW8DoEQ4lYoAHoECAEQLw&biw=980&bih=1851#imgrc=KlXh76O5MxRaFM' group-title="REQUEST",AXN 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
