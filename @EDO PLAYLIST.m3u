@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="om andi" tvg-logo="",live futsal
+https://etslive-2-vidio-com.akamaized.net/exp=1697392924~acl=/hls-b/ingest_15466_*/*~hmac=d564b5313ab284181f01fd65b6cc7f35d6a4374eb55dd74e24f25c003a7b24fc/hls-b/ingest_15466_240p/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
