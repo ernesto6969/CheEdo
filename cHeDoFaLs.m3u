@@ -1,5 +1,19 @@
 #EXTM3U
 group-title="powered ERnesto"
+#EXTINF: -1 tvg-logo="https://tinyurl.com/yulsogr9" group-title="BOLA",ERnesto
+https://etslive-2-vidio-com.akamaized.net/exp=1697358152~acl=/hls-p/ingest_15465_*/*~hmac=7289f9650b2f0494c6582797518d44dc99e67dec5f0f847fee8590514b8534d2/hls-p/ingest_15465_240p/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTINF: -1 tvg-logo="https://tinyurl.com/yl95gw35" group-title="REQUEST",AXN 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/ykbewj4n" group-title="RELIGI", Mekkah
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1697328800~acl=/hls-p/ingest_6852_*/*~hmac=ade72348a65871bb6d389e2c0cf241d8a602667036cf509d7f9fc4b896fbb789/hls-p/ingest_6852_240p/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/yurocpx5" group-title="ERnesto Lokas", Rnas Channel
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1697330835~acl=/hls-p/ingest_8241_*/*~hmac=fb58983578e6ae4e6e8c0fd44a7220df93c9940413743341d2e5e2f594af10e7/hls-p/ingest_8241_240p/index.m3u8
 
 #EXTINF:0 tvg-logo="vipbpxtv" group-title="ERnesto Test", vip box tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML,
