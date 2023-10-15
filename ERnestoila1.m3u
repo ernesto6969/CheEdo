@@ -1,5 +1,6 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.yupptv.com/channels/wow-kidz-tamil/live
-#EXTINF: -1 tvg-logo="https://is.gd/TKLfoB" group-title="KIDS",  WOW KIDS TAMIL
-http-referrer=https://yuppirecloriginvt.akamaized.net/31072023/smil:wowkidztam.smil/chunklist_b1628000.m3u8?hdntl=exp=1697475347~acl=!*/31072023/smil:wowkidztam.smil/*!yuppTVCom_61_-1_64319568cf6d4426_ID_103.81.194.82/payload/yuppTVCom_61_-1_64319568cf6d4426_ID_103.81.194.82/*~data=hdntl~hmac=67f5f764fe62dca3ef3f8e6c45efe2d2b8cc180d441709f3147485cc4ab17b02
+#EXTINF:-1 tvg-id="Kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/H28zPSm.jpg", K+CINE HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e943d615dbbb0436c862e9daa56b34c:74345bfdca2c5e494d53a15adaf10a7e
+https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd?|user-agent=mozilla/5.0
