@@ -1,6 +1,7 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.youtube.com/watch?v=OboSk3i6M9k&feature=shared
 #EXTINF: -1 tvg-id="https://m.youtube.com/watch?v=OboSk3i6M9k&feature=shared" tvg-logo="https://tinyurl.com/yqosgky8" group-title="#ERnesto Opening#", Cant Del Barca
-#EXTVLCOPT:http-user-agent=Isi_User_Agent_Value
-#EXTVLCOPT:http-referrer=Isi_Refferer_Name#tag
+#EXTVLCOPT:http-referrer=https://youtube.com/@indobarcabandung1529?feature=shared
 https://youtu.be/OboSk3i6M9k?feature=shared
