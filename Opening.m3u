@@ -1,13 +1,16 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://m.youtube.com/watch?v=OboSk3i6M9k&feature=shared
-#EXTINF: -1 tvg-id="https://m.youtube.com/watch?v=OboSk3i6M9k&feature=shared" tvg-logo="https://tinyurl.com/yqosgky8" group-title="#ERnesto Opening#", Cant Del Barca
-#EXTVLCOPT:http-referrer=https://youtube.com/@indobarcabandung1529?feature=shared
-https://youtu.be/OboSk3i6M9k?feature=shared
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF: -1 tvg-logo="https://tinyurl.com/yqosgky8" group-title="#ERnesto 081398024685#", Informasi via wa 081398024685
+#EXTVLCOPT:http-referrer=
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF: -1 tvg-logo="https://tinyurl.com/ytoqun6h" group-title="#ERnesto 081398024685#", GRATISAN
+#EXTVLCOPT:http-referrer=
 
-#EXTINF: -1 tvg-logo="https://tinyurl.com/yqosgky8" group-title="#ERnesto Opening#", Cant Del Barca 2
-#EXTVLCOPT:http-user-agent=
-#EXTVLCOPT:http-referrer=//www.youtube.com/#YoutubeLive
-https://youtu.be/OboSk3i6M9k?feature=shared
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF: -1 tvg-logo="https://tinyurl.com/ylwhc79p" group-title="#ERnesto 081398024685#", SAWER
+#EXTVLCOPT:http-referrer=
