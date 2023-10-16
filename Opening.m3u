@@ -1,3 +1,6 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://tinyurl.com/yqosgky8" group-title="OPENING EDO", Cant Del Barca
-https://m.youtube.com/watch?v=Udt-9J8nzGE
+
+#EXTINF: -1 tvg-id="sharevideo1.com" tvg-logo="https://tinyurl.com/yqosgky8" group-title="#ERnesto Opening#", Cant Del Barca
+#EXTVLCOPT:http-user-agent=Isi_User_Agent_Value
+#EXTVLCOPT:http-referrer=Isi_Refferer_Name#tag
+http://sharevideo1.com/v/T2JvU2szaTZNOWs=?t=ytb&f=co
