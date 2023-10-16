@@ -5,3 +5,9 @@
 #EXTINF: -1 tvg-id="https://m.youtube.com/watch?v=OboSk3i6M9k&feature=shared" tvg-logo="https://tinyurl.com/yqosgky8" group-title="#ERnesto Opening#", Cant Del Barca
 #EXTVLCOPT:http-referrer=https://youtube.com/@indobarcabandung1529?feature=shared
 https://youtu.be/OboSk3i6M9k?feature=shared
+
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/yqosgky8" group-title="#ERnesto Opening#", Cant Del Barca 2
+#EXTVLCOPT:http-user-agent=
+#EXTVLCOPT:http-referrer=//www.youtube.com/#YoutubeLive
+https://youtu.be/OboSk3i6M9k?feature=shared
