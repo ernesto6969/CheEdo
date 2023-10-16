@@ -1,16 +1,5 @@
-#EXTM3U
+#EXTINF: -1 tvg-logo="https://wa.me/qr/O7UPUJ4QVR2MI1" group-title="#ERnesto 081398024685#", Informasi via wa 081398024685
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF: -1 tvg-logo="https://tinyurl.com/yqosgky8" group-title="#ERnesto 081398024685#", Informasi via wa 081398024685
-#EXTVLCOPT:http-referrer=
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF: -1 tvg-logo="https://tinyurl.com/ytoqun6h" group-title="#ERnesto 081398024685#", GRATISAN
-#EXTVLCOPT:http-referrer=
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF: -1 tvg-logo="https://tinyurl.com/ylwhc79p" group-title="#ERnesto 081398024685#", SAWER
-#EXTVLCOPT:http-referrer=
