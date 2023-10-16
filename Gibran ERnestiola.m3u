@@ -1,5 +1,13 @@
-#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yulsogr9" group-title="#♦WELCOME MY PLAYLIST ERNESTO 081398024685♦#", 😎
+WELCOME MY PLAYLIST ERNESTO
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ynmcwm93" group-title="#♦WELCOME MY PLAYLIST ERNESTO 081398024685♦#", CHAT WA
+https://wa.me/qr/O7UPUJ4QVR2MI1
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yqbhg4f2" group-title="#♦WELCOME MY PLAYLIST ERNESTO 081398024685♦#", TRAKTIR
+https://chat.whatsapp.com/JVzEWy8pObl75rDJonnls7
 group-title="powered ERnesto"
+
+#EXTM3U
 #EXTINF: -1 tvg-logo="https://tinyurl.com/yulsogr9" group-title="BOLA",ERnesto
 https://etslive-2-vidio-com.akamaized.net/exp=1697358152~acl=/hls-p/ingest_15465_*/*~hmac=7289f9650b2f0494c6582797518d44dc99e67dec5f0f847fee8590514b8534d2/hls-p/ingest_15465_240p/index.m3u8
 
@@ -44497,6 +44505,5 @@ http://37.49.225.145:8080/Miglior/rk8mEWJQMwyDZ9bYU35uPt/297483
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/8ff68318140db98ee11cdd78282c2e15.png" group-title="Africa", AF: ITV
 http://37.49.225.145:8080/Miglior/rk8mEWJQMwyDZ9bYU35uPt/298096
-
 
 
