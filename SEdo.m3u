@@ -6,6 +6,14 @@
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
+#EXTINF: -1 tvg-logo="https://www.ewtn.com/img/od/live-player-poster-cane.jpg" group-title="REQUEST PLAYLIST", EWTN
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/46Wxmpc" group-title="REQUEST PLAYLIST", CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/45yx0Eh" group-title="REQUEST PLAYLIST", CBN Live
+https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="Logo" group-title="Group", isi nama tv
