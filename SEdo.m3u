@@ -9,5 +9,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF: -1 tvg-logo="https://tinyurl.com/ykbewj4n" group-title="RELIGI", Mekkah
 https://etslive-2-vidio-com.secureswiftcontent.com/exp=1697328800~acl=/hls-p/ingest_6852_*/*~hmac=ade72348a65871bb6d389e2c0cf241d8a602667036cf509d7f9fc4b896fbb789/hls-p/ingest_6852_240p/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://tinyurl.com/yurocpx5" group-title="ERnesto Lokas", Rnas Channel
-https://etslive-2-vidio-com.secureswiftcontent.com/exp=1697330835~acl=/hls-p/ingest_8241_*/*~hmac=fb58983578e6ae4e6e8c0fd44a7220df93c9940413743341d2e5e2f594af10e7/hls-p/ingest_8241_240p/index.m3u8
+#EXTM3U
+#EXTINF: -1 tvg-logo="Logo" group-title="Group", isi nama tv
+isi url m3u
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=isi
+#EXTINF: -1 tvg-logo="logo" group-title="REQUEST PLAYLIST", 
+#EXTVLCOPT:http-referrer=isi
+isi url file mpd
+
+#EXTINF: -1 tvg-logo="https://adsports.ae/images/logo.png" group-title="REQUEST PLAYLIST", ADS SPORT
+https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/45DYvfR" group-title="REQUEST PLAYLIST", YAS TV
+https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
