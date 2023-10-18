@@ -19,7 +19,7 @@ isi url m3u
 #EXTVLCOPT:http-referrer=isi
 isi url file mpd
 
-#EXTINF: -1 tvg-logo="https://adsports.ae/images/logo.png" group-title="REQUEST PLAYLIST", ADS SPORT
+#EXTINF: -1 tvg-logo="https://bit.ly/3RZxU9P" group-title="REQUEST PLAYLIST", ADS SPORT
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
 
 #EXTINF: -1 tvg-logo="https://bit.ly/45DYvfR" group-title="REQUEST PLAYLIST", YAS TV
