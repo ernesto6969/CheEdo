@@ -4580,7 +4580,14 @@ http://euromagictv.live:8080/movie/huseyin2022914/Bk2b2/380106.mkv
 #EXTINF:-1 tvg-logo="https://bit.ly/45BTFj9" group-title="Ernesto Seri Film", The.Transporter.4
 http://euromagictv.live:8080/movie/huseyin2022914/Bk2b2/380107.mkv
 
-#EXTINF: -1 tvg-logo="https://bit.ly/3tK5zKl" grouo-title="Seri Sniper", Sniper Legacy 2014
-https://tv1.lk21official.wiki/sniper-legacy-2014/.mkv
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/sniper-legacy-2014/#related
+#EXTINF: -1 tvg-logo="https://bit.ly/3tK5zKl" group-title="Seri Sniper", Sniper Legacy
+#EXTVLCOPT:http-referrer=https://tv1.lk21official.wiki/sniper-legacy-2014/#related
+https://tv1.lk21official.wiki/sniper-legacy-2014/#related
+
+#EXTINF: -1 tvg-logo="https://bit.ly/3tK5zKl" group-title="Seri Sniper", Sniper Legacy 2014
+https://tv1.lk21official.wiki/sniper-legacy-2014/#related.
 
 
