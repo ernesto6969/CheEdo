@@ -1,8 +1,19 @@
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://agrupaciojugadors.fcbarcelona.com/
+#EXTINF: -1 tvg-logo="https://bit.ly/3M3Wumg" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", ERnesto 2986 😎
+#EXTVLCOPT:http-referrer=https://www.fcbarcelona.com/
+https://open.http.mp.streamamg.com/p/3000707/sp/300070700/playManifest/entryId/0_nv48gxng/flavorIds/0_5qt8abut,0_kiimbh9n,0_xkt8a4dw,0_o2ycr84o,0_nyv8kcp7,0_waqjjn8u/format/applehttp/protocol/https/a.m3u8?ks=NjA1YmZkMThiZDgxNWUxMjBmOGM5M2NmYjRkMzE5OGYxYzlkYWE0NHwzMDAwNzA3OzMwMDA3MDc7MTY5Nzc0ODYwMDswOzE2OTc3NDc3MDAwMDA7O3N2aWV3OjBfbnY0OGd4bmcsc2V0cm9sZTpQTEFZQkFDS19CQVNFX1JPTEUsd2lkZ2V0OjE7Ow==&clientTag=html5:v2.55&uiConfId=30025311
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.youtube.com
+#KODIPROP:inputstream.adaptive.license_key=https://agrupaciojugadors.fcbarcelona.com/
+#EXTINF: -1 tvg-logo="https://bit.ly/45Ak5BL" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", Cant Del Barca 2986 😎
+#EXTVLCOPT:http-referrer=https://www.fcbarcelona.com/
+https://www.fcbarcelona.com/fcbarcelona/document/2023/02/16/da82cc8c-b7af-47c4-80df-22a945aa56a0/HimnoFCB-CORAL-SANT-JORDI-.mp3
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.youtube.com/
 #EXTINF: -1 tvg-logo="https://bit.ly/46Dqxcr" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", ERnesto 2986 😎
-#EXTVLCOPT:http-referrer=https://www.youtube.com
+#EXTVLCOPT:http-referrer=https://www.youtube.com/#Youtube
 https://m.youtube.com/watch?v=YRIcyTub7S8
 
 
