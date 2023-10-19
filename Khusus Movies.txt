@@ -1,9 +1,10 @@
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yulsogr9" group-title="#😎WELCOME MY PLAYLIST ERNESTO 085163732986😎#", 😎 085163732986
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yulsogr9" group-title="#♦WELCOME MY PLAYLIST ERNESTO 085163732986♦#", 😎 085163732986
 WELCOME MY PLAYLIST ERNESTO
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ynmcwm93" group-title="#😎WELCOME MY PLAYLIST ERNESTO 085163732986😎#", CHAT WA 085163732986
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ynmcwm93" group-title="#♦WELCOME MY PLAYLIST ERNESTO 085163732986♦#", CHAT WA 085163732986
 https://wa.me/qr/BN3GZHQBXDWMJ1
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yqbhg4f2" group-title="#😎WELCOME MY PLAYLIST ERNESTO 085163732986😎#", TRAKTIR 085163732986
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yqbhg4f2" group-title="#♦WELCOME MY PLAYLIST ERNESTO 085163732986♦#", TRAKTIR 085163732986
 https://wa.me/qr/BN3GZHQBXDWMJ1
+group-title="powered ERnesto"
 
 #EXTM3U
 
@@ -89,15 +90,13 @@ https://video.hownetwork.xyz/xxx/batman-begins-2005-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
-#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-the-dark-knight-2008.jpg
-" group-title="ERnesto Seri Superman Batman", The Dark Knight
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-the-dark-knight-2008.jpg" group-title="ERnesto Seri Superman Batman", The Dark Knight
 #EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=f65efff2acf67627f8869f84a7e89c72
 https://video.hownetwork.xyz/xxx/dark-knight-2008-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
-#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/02/film-the-dark-knight-rises-2012.jpg
-" group-title="ERnesto Seri Superman Batman", The Dark Knight Rises
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/02/film-the-dark-knight-rises-2012.jpg" group-title="ERnesto Seri Superman Batman", The Dark Knight Rises
 #EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=f8f29de790e63699ecf7f3276c2f4ed4
 https://video.hownetwork.xyz/yyy/the-dark-knight-rises-2012-bluray/11/480.m3u8
 
