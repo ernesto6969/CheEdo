@@ -1,10 +1,9 @@
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yulsogr9" group-title="# 😎WELCOME MY PLAYLIST ERNESTO 085163732986 😎#", 😎 085163732986
-WELCOME MY PLAYLIST ERNESTO
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ynmcwm93" group-title="# 😎WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", 😎 CHAT WA 085163732986
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yulsogr9" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", 😎 085163732986
 https://wa.me/qr/BN3GZHQBXDWMJ1
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yqbhg4f2" group-title="# 😎WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", 😎 TRAKTIR 085163732986
+#EXTINF:-1 tvg-logo="https://bit.ly/404Cdm3" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", 😎 CHAT WA 085163732986
 https://wa.me/qr/BN3GZHQBXDWMJ1
-group-title="powered ERnesto"
+#EXTINF:-1 tvg-logo="https://bit.ly/491pDIr" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", 😎 TRAKTIR 085163732986
+https://wa.me/qr/BN3GZHQBXDWMJ1
 
 #EXTM3U
 
