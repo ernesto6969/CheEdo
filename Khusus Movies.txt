@@ -23,6 +23,49 @@ http://euromagictv.live:8080/movie/huseyin2022914/Bk2b2/380107.mkv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2016/07/film-sniper-1993.jpg" group-title="ERnesto Seri Sniper", Sniper 1993
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=755f95f3b73b80a2bb91700bf6faf75f
+https://video.hownetwork.xyz/yyy/sniper-1993-bluray/3/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-sniper-2-2002.jpg" group-title="ERnesto Seri Sniper", Sniper 2002
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=0ef0971e36fb7d602425348ee62a69b4
+https://video.hownetwork.xyz/yyy/sniper-2-2002-webrip/2/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-sniper-reloaded-2011.jpg" group-title="ERnesto Seri Sniper", Sniper Reload 2011
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=78acbd87ac98e43079bf92c334ac808d
+https://video.hownetwork.xyz/yyy/sniper-reloaded-2011-bluray/3/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://bit.ly/3tK5zKl" group-title="ERnesto Seri Sniper", Sniper Legacy
 #EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=f3402ddae3f93e2a77138e6205cb2642
 https://video.hownetwork.xyz/yyy/sniper-legacy-2014-webdl/2/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2016/08/film-sniper-ghost-shooter-2016.jpg" group-title="ERnesto Seri Sniper", Sniper Ghost Shooter
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=992c84c261e0dcebb0097fe1ed11a804
+https://video.hownetwork.xyz/xxx/sniper-ghost-shooter-2016-bluray/2/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2017/10/film-sniper-ultimate-kill-2017.jpg" group-title="ERnesto Seri Sniper", Sniper Ultimate Kill 2017
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=2b80f83705e25fa54644efb25f54227d
+https://video.hownetwork.xyz/xxx/sniper-ultimate-kill-2017-bluray/2/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2020/06/film-sniper-assassins-end-2020-lk21.jpg" group-title="ERnesto Seri Sniper", Sniper Assassins
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=76821b7e7942b458655daa944045872b
+https://video.hownetwork.xyz/xxx/sniper-assassins-end-2020-bluray/11/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-american-sniper-2014.jpg" group-title="ERnesto Seri Sniper", American Sniper
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=18a6c5b1c136f95ed3058bf6638ab743
+https://video.hownetwork.xyz/xxx/american-sniper-2014-bluray/3/480.m3u8
+
