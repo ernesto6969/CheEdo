@@ -1,8 +1,8 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https:m.youtube.com/watch
-#EXTINF: -1 tvg-logo="https://bit.ly/46Dqxcr" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", ERnesto 2986 😎
-#EXTVLCOPT:http-referrer=https:m.youtube.com/watch
+#KODIPROP:inputstream.adaptive.license_key=https://www.youtube.com/@jhongibranngangang7070/videos
+#EXTINF: -1 tvg-id="www.youtube.com" tvg-logo="https://bit.ly/46Dqxcr" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", ERnesto 2986 😎
+#EXTVLCOPT:http-referrer=https://www.youtube.com/#YoutubeLive
 https://m.youtube.com/watch?v=YRIcyTub7S8
 
 
