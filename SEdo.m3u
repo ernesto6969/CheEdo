@@ -25,6 +25,11 @@ isi url m3u
 #EXTVLCOPT:http-referrer=isi
 isi url file mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://embed.4gtv.tv
+#EXTINF: -1 tvg-logo="https://bit.ly/46ZK5Yx" group-title="REQUEST PLAYLIST", 4gtv
+#EXTVLCOPT:http-referrer=https://embed.4gtv.tv/
+https://4gtvfreemobile-mozai.4gtv.tv/s8n7yXsxUeax-1wpv4SkM1rOQHUtwKz6sM2MnTzh8ok%3d/stream0.m3u8?token=cxAEx0jEnF8vICvtmDUWmw&expires=1697704970&refer=MDU0Zjg1Y2YtOGMwZC00Mzc4LTgyNTYtMmUzMTI2YzM0N2Jh&token1=mmeGyY_jTm033OIK4fv8sw&expires1=1697733770&y=0&vt=
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://uvp-kurier.sf.apa.at
@@ -37,3 +42,19 @@ https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_
 
 #EXTINF: -1 tvg-logo="https://bit.ly/45DYvfR" group-title="REQUEST PLAYLIST", YAS TV
 https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.squidtv.net/img/logo_sqtv0141.png" group-title="REQUEST PLAYLIST", COCOLA TV
+https://video-weaver.jkt02.hls.ttvnw.net/v1/playlist/CrUFTixBgt7-cuTGDLNsDp2uTENYpvvYVLoSIiu8AyYJKo-whELqk46Lyelu2CiXrtIoGuE9MCRwxI7voALpv2l6O95YX9bSB5sJdc--YggCyYZ9HL8eO87SBPpiF6eEKO5h_teDnoj0wdrNgZMamIMTk5WEKtFzcpErta9D3OQlXQAvrA5Pn39THUJuFNvUOXqDDrhhZt5wZ3eTg_T3xFRR0MM5s-Ft1n7YrXG0WIm6PBDO2rx2wu_9Bku0BNX7ETtWt2AkXCV4iGHTl7wjuXUapX0Z_FZTydT61W9ZwWxN8-Sw3tW_IqlcjR-zkwm0O_jildF3Wzg2Gt0PZqxKojKH5jkjbKxDCgJNpz1_chp1hV1P9uNsRe697xJhwhLqi3kMOksjU-wzYcTwErsKF3Rq1mLtK0KMXqSwFYolFJbAMFh8j1OoaE8HqHI3zx-dir9wnS2bXmLeU9EJ3PwhpJaDNUdQwK_4FJbg472lhJL3TtF-1zFTqcB6pjQ4yUCJUgM3J42-_jN6yOQmpckHVCAB55789PU6pknhnKdlGGiedgM7lco1idbej7eHGyDKmAcfCGwkgBhnxSnFK5SZOCY3sDR71XeOVFCb88FKgiFAUJv0M3xn82rCbuinuetQ2VttEZi-SIjYa2D7dIvJSAPo_VA8pDul-BY6xu67mqHfOKO_dYy5G5cSC4F45MCgXdmpABRz3RRNdXG8BPlBXAF29DPsAhAhafo_5dIEH-hpwFFPwYnocpYmyAgGAfO6wz7C6sX8u_ksSXG8dTT0aHS0ax3W9cg-0uiF5GKdfZfu8j6M7E7_L19qKCAkLeXaXc1HCTz1EAYzZK-RR_SDj4PAXEz9cejZ13oWzKGjnlEeer1pQJz1WnBgtP-o9gKZndMhBVdTORdVXuYD-3DeEzFnO0CYoq9xGgzuNwKXVVOtXkUBrJIgASoJdXMtd2VzdC0yMOUH.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/46ZLdLP" group-title="REQUEST PLAYLIST", Cocola Broadcasting
+https://video-weaver.jkt02.hls.ttvnw.net/v1/playlist/CrcFuvk3i-Y8pBamgXXGjDDZ7BFEWCfS-aCl1JxXpYP7zRnEMJF0rKvvXwTyn7LjY_qgsrlQWVsgF_jhHYWjC97o1oHN9h9zA58iLckz6cB3vbv1YoXvs6QKR1r8nPBY-KcsPxIg8f4V-_WY0wA-cc2-Du7EHMLx5ddCe0leH4KW9resrdtUB8hvyrwfytX6XiGRwZUuvyvqlr-B-QCv64zEt6-7iRYO4V1pk86SuWV0SimqPzeFlM9Ul00azrbTbbI7bausjNNnwi0rXqAkvkt0WRNa2y_jbnyqtz89mHrZtwkAE6hwhJ-mUDHP1gAnYhwV3jEAYS_klguapoEZZIkZtuLPRGVGfPzJ8aJkKsBcxZ77LaAquHr764H7p3gBSqaVn7pQ0OolNqvBY5DRuplsEx7AtpAHLeLJYGSGEXknLCYhz6KDvQbTMnTFNf7brfQixlm3cJYF37j-v46soRK-UNZ-tkSmyG3naYR95QvNBrUt6VbOP3DB1riwgrXrbgfKGZ3TN2UKo5HD_MH3PF8sOB559RMPF6MCkYhp1tEEXaDs6glgzwd_E60S9mFFgwtq0eXyRLZsW1LKUMx6EnZf4_HVAUY2IfDVBPqRryc1BqwKgCLR_EQcIbOGRTwoL9J2EJDFCsxIwRiRC-mxYxD-HYiqIw6GYqEdkgHeTGuC6wJsDDn5jcuaGHPMwbI4zjWKnsBdIAglspH8tPnINUQ0fLuNUmo-kw2gg1eyeTFph3CMKXfIptAg3Ep9wdkv3o5g-muu5dTIrNu8R_qxw5bUIFEbtzxVxV4mSbGRxvB91vZzGlLoaiGRWGaUyxZIF887SzJOUxg7X4BPQ8xpOggN8WxTG4iIHdWUCj2zVorHCR9StYA84KkLiwjKsbgP6ph9GaQndxcRKLsNie-wRWRKVOugv6rgxBsaDMLJhuO3QVdePeqLUiABKgl1cy13ZXN0LTIw5Qc.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/45x16YZ" group-title="REQUEST PLAYLIST", Cocola Broadcasting 1
+https://video-weaver.jkt02.hls.ttvnw.net/v1/playlist/CpwF6ZswHLj6OX9t6YmtM11HEJb4F16WJ-mW9AKLvCwYweuRMQs70nlt0ii6VeGqb1zPjOJaka-pOoMUztGc022LZTAoGcwji0ze-PUp7CSmRYLRH9onV7UfjvrsRGnJFLnZy84eAruPtzLJILHuvw-7Vo3fbE7czB_1ONDcdUI7-xtZnf6GLr1NCGJBB0ACQZTojnbdfCqnaJQn_vynUHXNod0sqdI3u9Qi9bAHsV-UKc4FF77w5tcXcjWl2IfeV8dTfJDnQtSWYyaF4S0EPqaJ4RMNa6WxnOQWvCI4l0epsKGWIRGjHE-BG2OwC-av5AZUFgWe3I8znqEryFkNq3sdcrCv5WQfn52I6YkMg50CDILj-yg1JNVwZa2hKhDN0RwfkQjJfXMy_i1edg9ghJAin-GiwzBwFvTCrDE1SdIApCtWQSD9ATM_-YNanclrDsaSQ5xc31NYhu-ucA9NVpEs4blZWDvuGi8JtwP6xvWnwZaIcZVW-5zlVX_YHEEaOgvZdyr1VH_mrHH5Rp6ii49ohgWZirl2o0U_cqplM4ejzsCGx6P-NhFZy6Q_-BafPkPzhNvEwhU4VFO0srfuv2R-qQDNlM7xDhqJigc_MWwgQnqgWShiDfE1bLnAEiMwJAPlck6z_Hb2rPfMCaG_18BIZuh71AUx5WTBeYjC_A6IeIgkxawVQmPzKbdF-kvqw86T60QBiRq-xr_t0A0NCVakkF7AqNoPH6kZ19TLByq4tem1aAW0I2bAcz-HtTvUOm7SJ98HF2HEMJGKc7IbrII_mVLWIzntTQknJDOmxt7AXVly_n2D5v2HfI3nD9EN3p98FIW9Oq9SuA-2FFVjfA_CSbaDpc2e5rO0Ix0CH6VenigkQy6BN1OiSoMw2LIaDNOnRb2grAR6cfVQpCABKgl1cy13ZXN0LTIw5Qc.m3u8
+
+#EXTINF: -1 tvg-logo="https://firstindianews.com/_next/image?url=%2Flogo.png&w=256&q=75" group-title="REQUEST PLAYLIST", First India News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/46ZLdLP" group-title="REQUEST PLAYLIST", Cocola Broadcasting
+
+#EXTINF: -1 tvg-logo="https://bit.ly/46ZLdLP" group-title="REQUEST PLAYLIST", Cocola Broadcasting
