@@ -254,7 +254,7 @@ https://video.hownetwork.xyz/yyy/rambo-iii-1988-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
-#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-rambo-2008.jpg" group-title="ERnesto Serial Sylvester Stallone", Rambo 2008 
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-rambo-2008.jpg" group-title="ERnesto Serial Sylvester Stallone", Rambo 2008
 #EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=51129601036febb2ca097762c8c5798d
 https://video.hownetwork.xyz/yyy/rambo-2008-bluray/3/480.m3u8
 
@@ -309,7 +309,7 @@ https://be7713.rcr82.waw05.cdn112.com/hls2/01/02755/28t4szdkjb3f_,n,h,x,.urlset/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
-#EXTINF: -1 tvg-logo="Logo. https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-rocky-iv-1985.jpg" group-title="ERnesto Serial Sylvester Stallone", Rocky IV
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-rocky-iv-1985.jpg" group-title="ERnesto Serial Sylvester Stallone", Rocky IV
 #EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=605ecfb6549757e00669d63cf5fb71c9
 https://video.hownetwork.xyz/xxx/rocky-iv-1985-bluray/2/480.m3u8
 
@@ -556,37 +556,37 @@ https://be2719.rcr22.ams01.cdn112.com/hls2/02/02754/1qeiwsmzgt0u_,n,h,.urlset/ma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
-#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2017/11/film-dragon-ball-z-fusions-1995.jpg" group-title="ERnesto Serial BIOSKOP", DRAGON BALL Z: FUSION REBORN (DRAGON BALL Z: FUKKATSU NO FUSION!! GOKUU TO VEGETA) (1995)
+#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2017/11/film-dragon-ball-z-fusions-1995.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL Z: FUSION REBORN (DRAGON BALL Z: FUKKATSU NO FUSION!! GOKUU TO VEGETA) (1995)
 #EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=7b5ea3ff1530eea6f08290b647a6d75b
 https://video.hownetwork.xyz/yyy/dragon-ball-z-fusions-1995-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
-#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2017/04/film-dragon-ball-z-wrath-of-the-dragon-1995.jpg" group-title="ERnesto Serial BIOSKOP", DRAGON BALL Z: WRATH OF THE DRAGON (1995)
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2017/04/film-dragon-ball-z-wrath-of-the-dragon-1995.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL Z: WRATH OF THE DRAGON (1995)
 #EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=9a1e58988ad07421c571fcd866a9f3be
 https://video.hownetwork.xyz/yyy/dragon-ball-z-wrath-dragon-1995-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
-#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-dragon-ball-hey-son-goku-and-friends-return-2008.jpg" group-title="ERnesto Serial BIOSKOP", DRAGON BALL: HEY! SON GOKU AND FRIENDS RETURN!! (DORAGON BÔRU: OSSU! KAETTE KITA SON GOKÛ TO NAKAMA-TACHI!!) (2008)
+#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-dragon-ball-hey-son-goku-and-friends-return-2008.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL: HEY! SON GOKU AND FRIENDS RETURN!! (DORAGON BÔRU: OSSU! KAETTE KITA SON GOKÛ TO NAKAMA-TACHI!!) (2008)
 #EXTVLCOPT:http-referrer=https:https://furher.in/
 https://be4242.rcr52.ams03.cdn112.com/hls2/02/02751/7q3oylgjm82k_n/master.m3u8?t=kJMDPimfN-viXRugzDJ4bqdaIpoSpX88ue6VJwx-c50&s=1697733893&e=43200&f=13755038&srv=25&asn=59150&sp=2000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
-#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-dragon-ball-z-battle-of-gods-2013.jpg" group-title="ERnesto Serial BIOSKOP", DRAGON BALL Z: BATTLE OF GODS (DRAGON BALL Z: DORAGON BÔRU Z – KAMI TO KAMI) (2013)
+#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-dragon-ball-z-battle-of-gods-2013.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL Z: BATTLE OF GODS (DRAGON BALL Z: DORAGON BÔRU Z – KAMI TO KAMI) (2013)
 #EXTVLCOPT:http-referrer=https:https://furher.in/
 https://be7713.rcr82.waw05.cdn112.com/hls2/01/02754/mdolxev6gjpn_,n,h,.urlset/master.m3u8?t=px2O7a6pbPRt6nuLm8ntcANLFjq0GrHZM28I7pIUe6o&s=1697734017&e=43200&f=13774703&srv=22&asn=59150&sp=2000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
-#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-dragon-ball-z-resurrection-f-2015.jpg" group-title="ERnesto Serial BIOSKOP", DRAGON BALL Z: RESURRECTION ‘F’ (DRAGON BALL Z: DORAGON BÔRU Z – FUKKATSU NO ‘F’) (2015)
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-dragon-ball-z-resurrection-f-2015.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL Z: RESURRECTION ‘F’ (DRAGON BALL Z: DORAGON BÔRU Z – FUKKATSU NO ‘F’) (2015)
 #EXTVLCOPT:http-referrer=https:https://tv1.lk21official.wiki/dragon-ball-z-resurrection-f-2015/#comments
 https://tv1.lk21official.wiki/dragon-ball-z-resurrection-f-2015/#comments
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
-#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2018/12/film-dragon-ball-super-broly-doragon-boru-cho-burori-dragon-ball-super-broly-2018-lk21.jpg" group-title="ERnesto Serial BIOSKOP", DRAGON BALL SUPER: BROLY (DORAGON BORU CHO: BURORI – DRAGON BALL SUPER: BROLY) (2018)
+#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2018/12/film-dragon-ball-super-broly-doragon-boru-cho-burori-dragon-ball-super-broly-2018-lk21.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL SUPER: BROLY (DORAGON BORU CHO: BURORI – DRAGON BALL SUPER: BROLY) (2018)
 #EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=ba1c5059048498b9754b925ca5
 https://video.hownetwork.xyz/yyy/dragon-ball-super-broly-doragon-boru-cho-burori-dragon-ball-super-broly-2018-bluray/6/480.m3u8
 
