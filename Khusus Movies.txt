@@ -58,23 +58,6 @@ https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/chunks.m3
 
 #EXTINF: -1 tvg-logo="https://bit.ly/46ZLdLP" group-title="REQUEST PLAYLIST", Cocola Broadcasting
 
-
-
-#SERIAL MOVIES#
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3tE4vI4" group-title="Ernesto Seri Film", The.Transporter.1
-http://euromagictv.live:8080/movie/huseyin2022914/Bk2b2/380104.mkv
-
-#EXTINF:-1 tvg-logo="https://bit.ly/46RXYb6" group-title="Ernesto Seri Film", The.Transporter.2
-http://euromagictv.live:8080/movie/huseyin2022914/Bk2b2/380105.mkv
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3QqBwk8" group-title="Ernesto Seri Film", The.Transporter.3
-http://euromagictv.live:8080/movie/huseyin2022914/Bk2b2/380106.mkv
-
-#EXTINF:-1 tvg-logo="https://bit.ly/45BTFj9" group-title="Ernesto Seri Film", The.Transporter.4
-http://euromagictv.live:8080/movie/huseyin2022914/Bk2b2/380107.mkv
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CINEMA", IR: Cine Film
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/297533
 
@@ -4583,5 +4566,21 @@ http://iptvtree.net:8080/mitrovic/ff9bb47a59/71110
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE", AE: Star Movies
 http://iptvtree.net:8080/mitrovic/ff9bb47a59/2849
 
+#SERIAL MOVIES#
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tE4vI4" group-title="Ernesto Seri Film", The.Transporter.1
+http://euromagictv.live:8080/movie/huseyin2022914/Bk2b2/380104.mkv
+
+#EXTINF:-1 tvg-logo="https://bit.ly/46RXYb6" group-title="Ernesto Seri Film", The.Transporter.2
+http://euromagictv.live:8080/movie/huseyin2022914/Bk2b2/380105.mkv
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3QqBwk8" group-title="Ernesto Seri Film", The.Transporter.3
+http://euromagictv.live:8080/movie/huseyin2022914/Bk2b2/380106.mkv
+
+#EXTINF:-1 tvg-logo="https://bit.ly/45BTFj9" group-title="Ernesto Seri Film", The.Transporter.4
+http://euromagictv.live:8080/movie/huseyin2022914/Bk2b2/380107.mkv
+
+#EXTINF: -1 tvg-logo="https://bit.ly/3tK5zKl" grouo-title="Seri Sniper", Sniper Legacy 2014
+https://tv1.lk21official.wiki/sniper-legacy-2014/
 
 
