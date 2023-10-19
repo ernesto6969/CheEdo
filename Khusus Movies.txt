@@ -4581,6 +4581,6 @@ http://euromagictv.live:8080/movie/huseyin2022914/Bk2b2/380106.mkv
 http://euromagictv.live:8080/movie/huseyin2022914/Bk2b2/380107.mkv
 
 #EXTINF: -1 tvg-logo="https://bit.ly/3tK5zKl" grouo-title="Seri Sniper", Sniper Legacy 2014
-https://tv1.lk21official.wiki/sniper-legacy-2014/
+https://tv1.lk21official.wiki/sniper-legacy-2014/.mkv
 
 
