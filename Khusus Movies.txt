@@ -11,12 +11,30 @@ https://www.fcbarcelona.com/fcbarcelona/document/2023/02/16/da82cc8c-b7af-47c4-8
 
 
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://92.119.159.44/movies/nonton-film-galih-ratna-gratis/
-#EXTINF: -1 tvg-logo="https://bit.ly/3Fwa2D3" group-title="ERnesto Serial Bioskop +62", Galih & Ratna 😎
-#EXTVLCOPT:http-referrer=original
-https://92.119.159.44/movies/nonton-film-galih-ratna-gratis/
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://199.87.210.226
+#EXTINF: -1 tvg-logo="https://bit.ly/3Qoz9Oq" group-title="ERnesto Serial Movies Indonesia", Suzanna Luna Maya malam Jumat kliwon 😎
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/Gwy4XA15zb7A15WXCHmwoFTjjx-R0xFBunUSBMtBypUpZX5hMMAW3Fa6OCAXA235etDIlaEIJRuwtOCAZg6YJA/-28h4KoIUmW9fxyLTEFii2ELNHyeD06voC7YMCVYURI/video.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://199.87.210.226
+#EXTINF: -1 tvg-logo="https://bit.ly/3tEir51" group-title="ERnesto Serial Movies Indonesia", Galih & Ratna 2017 😎
+#EXTVLCOPT:http-referrer=https://199.87.210.226/
+https://wolf.9bg.net/stream/variant/ZQRmL2SuMQSxLzZkMTMwZwR4ZwqwAJAzMQSwAwNjL2IyBTMzMJMuZQOzBQIvZmRjMQSuLJVjMwHmLmOwMQNkAF5cJH4kLzb2rJukpIqeZwEbq1H1MJ9EYzuLAR10oxylrS81F1y6ZmqfpKEDFH5WAKE0ASASFT8koRSJMHq0GUZjnzL5EHMPAz1PARIHnyODH3M6rxy6n0f/ZJVjAGyyLJIuZQDkZQVlAQx0ZwSvBTIvZmSyBTMxLGD1MGx3MGHmZTL3BQyxZTExAQDkZ2V2LJR5ZwxlBGxmLv5WH3ckEJSRE2AZoJMDoRMdEzMVGR1OYxp5o0gyJxyPFQy3HP13naE1Ex9wMJp/ZQp0ZQD3MTL5LmZ5BJSwBQDlBJSzZQOyAwqzZwVkZwN5LGAxZQMwLJMvBGVlZQMvAmIzZQywMwyvBQMvZGuwAv5mEx1WpHuSqKEZMT1hMGDjoJxjpzMOYx4gAJp2AQuVMQqwAGI4pUpjIwR0K2WnoHkEoRACDKOzpRE2pzc6IHkzK0LkZ1IwE0MHIH02BQSMHIVjEJy0AIp.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://199.87.210.226
+#EXTINF: -1 tvg-logo="https://bit.ly/45GOrmn" group-title="ERnesto Serial Movies Indonesia", Sayap sayap patah 😎
+#EXTVLCOPT:http-referrer=https://199.87.210.226/
+https://halo.9bg.net/stream/variant/MJR5A2EuMwH0MJR2AwyyBQOvLGR5BTZkA2H0L2R0LmMwAGZ3ZwOwLGIvBTAxLJHmZGEyBTMyMwZjAmMwMQOwZF5GK1cLL0cDpz1xpQZ2FxuLIRMCM3SOYyMMH1caoxMvJHkmD0gbM0M0GSIULwuaZwM1LJ5zISyZn2f5oIM2q1uGFzqSFTWsEmSdA0IsHmueA0ECZRACE2b/ATL2ZwWxAzAxLGHkZwMvAwSzLwIzLwuuLGD3Zwx3AmL5ZwV2ZwMzAwR3LmWyBJL1BGN4A2ZjAJR5L2H4BQZ2Mv5cqUc2n3IAZaIwJGymGUEspQIHA21OYwt3G25jEmOVHyuMBHEgHJkAM2ghnUp/AJEuLwqzZGyxBQt3AQAyZGWvLGZkZTAwMQL3ZJZkLzSvZQZmLzV0BJV0ZJZkAQMuLJL3MzEyAwuxMwqzLzH2LF5cZz9UIRfmMJMKBS9hImExHxuAL1MaYyIOAJAVZRcGAv1fIJyYAzAhGIuIJIuYnQMSARksqIWTFmSBrUysFIMfK3ACq0u4p1x3JQEWFH5gM0ylETfgo3Z.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://199.87.210.226
+#EXTINF: -1 tvg-logo="https://bit.ly/3s2HPAT" group-title="ERnesto Serial Movies Indonesia", Petualangan Sherina 2000 😎
+#EXTVLCOPT:http-referrer=https://199.87.210.226/
+https://wolf.9bg.net/stream/variant/BGpmLGHmLJR1LJDlAmp4MTV0BGqyL2DjMzLjLmx3LmR2LwVmZzLkBQAxZQZ1MGR0LwuzZzZ0AGMvMQV1LzZ3AF53LaW3ZKcjnTE4pmMDoKDgn255Z2gOYxylJRSjGyEBI01GBHqJD0y1MQSKo3AKDHEspJEcrQE0GHkepUSIH1uBBHAxAKEynT5TrHMHHH51Zzq1o1N0JwZ/Z2WuA2R1MQyvAwt1MGRjLwN3ZGV1LmZ0AwDlMGyuLmSuA2V3ZmOwZGZ1A2RlLGpjLwRmMwuuZQLkAwqyZTH3Ll42DzkKHSu1ZzZmDIAdrxMDryIkM0EaYxuMnUScYKNmBF1Do2gwHyHmLHMzBUp/LGExAzSzZmMvLwp0AzL0ZwuuAmHlZQIzMTIxMwRkAzD5ZwOzMGL4LJIwZwRkZGSyZGExBQH0BGEvLwx1AmqyAF5LZ01MqQuHHH9GrRIcASSwq2x2IGW3Yz5lnmycqQALGSLmEJf5GRMQIwIcLx5zFwElEaV3o0uapIcirHSVrSSzDJcfDzA3rSSKDJElqQE4oQSVDwI3EwD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
