@@ -11,6 +11,12 @@ https://www.fcbarcelona.com/fcbarcelona/document/2023/02/16/da82cc8c-b7af-47c4-8
 
 
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://92.119.159.44/movies/nonton-film-galih-ratna-gratis/
+#EXTINF: -1 tvg-logo="https://bit.ly/3Fwa2D3" group-title="ERnesto Serial Bioskop +62", Galih & Ratna 😎
+#EXTVLCOPT:http-referrer=original
+https://92.119.159.44/movies/nonton-film-galih-ratna-gratis/
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
