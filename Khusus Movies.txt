@@ -1,21 +1,9 @@
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://agrupaciojugadors.fcbarcelona.com/
-#EXTINF: -1 tvg-logo="https://bit.ly/3M3Wumg" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", ERnesto 2986 😎
-#EXTVLCOPT:http-referrer=https://www.fcbarcelona.com/
-https://open.http.mp.streamamg.com/p/3000707/sp/300070700/playManifest/entryId/0_nv48gxng/flavorIds/0_5qt8abut,0_kiimbh9n,0_xkt8a4dw,0_o2ycr84o,0_nyv8kcp7,0_waqjjn8u/format/applehttp/protocol/https/a.m3u8?ks=NjA1YmZkMThiZDgxNWUxMjBmOGM5M2NmYjRkMzE5OGYxYzlkYWE0NHwzMDAwNzA3OzMwMDA3MDc7MTY5Nzc0ODYwMDswOzE2OTc3NDc3MDAwMDA7O3N2aWV3OjBfbnY0OGd4bmcsc2V0cm9sZTpQTEFZQkFDS19CQVNFX1JPTEUsd2lkZ2V0OjE7Ow==&clientTag=html5:v2.55&uiConfId=30025311
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://agrupaciojugadors.fcbarcelona.com/
 #EXTINF: -1 tvg-logo="https://bit.ly/45Ak5BL" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", Cant Del Barca 2986 😎
 #EXTVLCOPT:http-referrer=https://www.fcbarcelona.com/
 https://www.fcbarcelona.com/fcbarcelona/document/2023/02/16/da82cc8c-b7af-47c4-80df-22a945aa56a0/HimnoFCB-CORAL-SANT-JORDI-.mp3
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.youtube.com/
-#EXTINF: -1 tvg-logo="https://bit.ly/46Dqxcr" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", ERnesto 2986 😎
-#EXTVLCOPT:http-referrer=https://www.youtube.com/#Youtube
-https://m.youtube.com/watch?v=YRIcyTub7S8
-
 
 #EXTINF:-1 tvg-logo="https://bit.ly/404Cdm3" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", 😎 CHAT WA 085163732986
 
@@ -72,548 +60,705 @@ https://video.hownetwork.xyz/xxx/sniper-assassins-end-2020-bluray/11/480.m3u8
 #EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=18a6c5b1c136f95ed3058bf6638ab743
 https://video.hownetwork.xyz/xxx/american-sniper-2014-bluray/3/480.m3u8
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-superman-returns-2006.jpg" group-title="ERnesto Serial Superman Batman", Superman Return 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=4d59d5f2763787af56546da0d0bc0ff5
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=4d59d5f2763787af56546da0d0bc0ff5
 https://video.hownetwork.xyz/yyy/superman-returns-2006-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2016/04/film-man-of-steel-2013.jpg" group-title="ERnesto Serial Superman Batman", Man Off Steel 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=667dec4efbda2d9070d38abfacc04da7
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=667dec4efbda2d9070d38abfacc04da7
 https://video.hownetwork.xyz/xxx/man-steel-2013-bluray/7/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2019/10/film-the-devils-rejects-2005-lk21.jpg" group-title="ERnesto Serial Psikopat", The Devil Rejects 😎
-#EXTVLCOPT:http-referrer=https:https://furher.in/
+#EXTVLCOPT:http-referrer=https://furher.in/
 https://be6721.rcr72.waw04.cdn112.com/hls2/01/02756/fv55t0n46xox_h/index-v1-a1.m3u8?t=xs5evc3Ak5M4pSlhtT0NqBBYtqWdCOIpo36erVLyCvo&s=1697716812&e=43200&f=13780761&srv=24&asn=59150&sp=2500
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/04/film-batman-v-superman-dawn-of-justice-2016.jpg" group-title="ERnesto Serial Superman Batman", Superman VS Batman 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=a9ab562d621232bb3f0e9e48a851e77f
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=a9ab562d621232bb3f0e9e48a851e77f
 https://video.hownetwork.xyz/xxx/batman-v-superman-dawn-justice-extended-2016-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-batman-begins-2005.jpg" group-title="ERnesto Serial Superman Batman", Batman Begins 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=bf12d7c37b1b54419f5eca34418dda05
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=bf12d7c37b1b54419f5eca34418dda05
 https://video.hownetwork.xyz/xxx/batman-begins-2005-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-the-dark-knight-2008.jpg" group-title="ERnesto Serial Superman Batman", The Dark Knight 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=f65efff2acf67627f8869f84a7e89c72
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=f65efff2acf67627f8869f84a7e89c72
 https://video.hownetwork.xyz/xxx/dark-knight-2008-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/02/film-the-dark-knight-rises-2012.jpg" group-title="ERnesto Serial Superman Batman", The Dark Knight Rises 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=f8f29de790e63699ecf7f3276c2f4ed4
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=f8f29de790e63699ecf7f3276c2f4ed4
 https://video.hownetwork.xyz/yyy/the-dark-knight-rises-2012-bluray/11/480.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/ 
 #EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2016/05/film-10000-bc-2008.jpg" group-title="ERnesto Serial BIOSKOP", 10.000 BC 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=d3e573816f73a98f5ad90989f727ef9b
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=d3e573816f73a98f5ad90989f727ef9b
 https://video.hownetwork.xyz/xxx/10000-bc-2008-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2016/06/film-blood-diamond-2006.jpg" group-title="ERnesto Serial BIOSKOP", Blood Diamond 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=856fa42a9bd21f763de4bdcdd100f741
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=856fa42a9bd21f763de4bdcdd100f741
 https://video.hownetwork.xyz/xxx/blood-diamond-2006-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2016/01/film-kuch-kuch-hota-hai-1998.jpg" group-title="ERnesto Serial BIOSKOP", Kuch Kuch Hota Hai 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=410f32299b6b6506d56d2828433960fc
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=410f32299b6b6506d56d2828433960fc
 https://video.hownetwork.xyz/yyy/kuch-kuch-hota-hai-1998-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-ashoka-the-great-2001.jpg" group-title="ERnesto Serial BIOSKOP", Ashoka 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=eab2d782990bfb0e591015e5f0416988
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=eab2d782990bfb0e591015e5f0416988
 https://video.hownetwork.xyz/yyy/ashoka-great-2001-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg" group-title="ERnesto Serial BIOSKOP", Mr. Bean Holliday 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=53127630f4c6e331b7043aaca4630f4d
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=53127630f4c6e331b7043aaca4630f4d
 https://video.hownetwork.xyz/xxx/mr-beans-holiday-2007-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-eragon-2006.jpg" group-title="ERnesto Serial BIOSKOP", Eragon 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=d9bd4aeefd037d1c9c71f4ac13cc0546
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=d9bd4aeefd037d1c9c71f4ac13cc0546
 https://video.hownetwork.xyz/xxx/eragon-2006-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2018/10/film-papillon2017-lk21.jpg" group-title="ERnesto Serial BIOSKOP", Papillon 2017 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=8b3b66242461f1477f2c80043f70499e
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=8b3b66242461f1477f2c80043f70499e
 https://video.hownetwork.xyz/xxx/papillon2017-bluray/11/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2016/07/film-papillon-1973.jpg" group-title="ERnesto Serial BIOSKOP", Papillon 1973 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=545f9cd7f5d36fe85b646fb30fb16d32
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=545f9cd7f5d36fe85b646fb30fb16d32
 https://video.hownetwork.xyz/yyy/papillon-1973-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2020/03/film-escape-from-pretoria-2020-lk21.jpg" group-title="ERnesto Serial BIOSKOP", Escape From Pretoria 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=25e18efb5cabfbaed0c0256be32cda7f
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=25e18efb5cabfbaed0c0256be32cda7f
 https://video.hownetwork.xyz/yyy/escape-from-pretoria-2020-bluray/4/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/01/film-mr-mrs-smith-2005.jpg" group-title="ERnesto Bioskop", Mr & Mrs Smith 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=084f417e67a45e89790c3bb3fe3e3566
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=084f417e67a45e89790c3bb3fe3e3566
 https://video.hownetwork.xyz/xxx/mr-mrs-smith-2005-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-titanic-1997.jpg" group-title="ERnesto Serial BIOSKOP", Titanic 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=b6311a8940a8cec5a683ce8f492f93a6
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=b6311a8940a8cec5a683ce8f492f93a6
 https://video.hownetwork.xyz/xxx/titanic-1997-bluray/11/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-the-fast-and-the-furious-2001.jpg" group-title="ERnesto Serial Fast and Furious", The Fast and The Furious 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=0a18a68f2632ae522618a47a5adfb4a0
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=0a18a68f2632ae522618a47a5adfb4a0
 https://video.hownetwork.xyz/yyy/fast-furious-2001-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-2-fast-2-furious-2003.jpg" group-title="ERnesto Serial Fast and Furious", 2 Fast 2 Furious 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=574d4b7be406c42dbb0ea89eac65a0a4
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=574d4b7be406c42dbb0ea89eac65a0a4
 https://video.hownetwork.xyz/yyy/2-fast-2-furious-2003-bluray/11/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-the-fast-and-the-furious-tokyo-drift-2006.jpg" group-title="ERnesto Serial Fast and Furious", The Fast and The Furious Tokyo Drift 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=e0d47fbe73e03888b1ed4aaf7cb55b6e
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=e0d47fbe73e03888b1ed4aaf7cb55b6e
 https://video.hownetwork.xyz/yyy/fast-furious-tokyo-drift-2006-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-fast-furious-2009.jpg" group-title="ERnesto Serial Fast and Furious", Fast Furious 2009 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=e9f0a0340750dc5b5070ccb458c96355
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=e9f0a0340750dc5b5070ccb458c96355
 https://video.hownetwork.xyz/yyy/fast-furious-2009-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-fast-five-2011.jpg" group-title="ERnesto Serial Fast and Furious", Fast Five 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=e9f0a0340750dc5b5070ccb458c96355
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=e9f0a0340750dc5b5070ccb458c96355
 https://video.hownetwork.xyz/yyy/fast-five-2011-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-fast-furious-6-2013.jpg" group-title="ERnesto Serial Fast and Furious", Fast SIX 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=cd6b1963321650f4b209fab8a2ad80e7
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=cd6b1963321650f4b209fab8a2ad80e7
 https://video.hownetwork.xyz/yyy/fast-furious-6-2013-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-furious-7-2015.jpg" group-title="ERnesto Serial Fast and Furious", Fast 7 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=ec08fec52cc958b3a6c5607b6deb220d
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=ec08fec52cc958b3a6c5607b6deb220d
 https://video.hownetwork.xyz/yyy/furious-7-2015-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2017/04/film-the-fate-of-the-furious-2017-2.jpg" group-title="ERnesto Serial Fast and Furious", The fate off Furious 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=52b7298b82e309c149d499214969658b
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=52b7298b82e309c149d499214969658b
 https://video.hownetwork.xyz/yyy/fate-furious-2017-bluray/6/480.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2019/08/film-fast-furious-presents-hobbs-shaw-2019-lk21.jpg" group-title="ERnesto Serial Fast and Furious", FAST & FURIOUS PRESENTS: HOBBS & SHAW (2019) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=424c174cf49b448287db79f2c172ccba
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=424c174cf49b448287db79f2c172ccba
 https://video.hownetwork.xyz/yyy/fast-furious-presents-hobbs-shaw-2019-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2021/05/film-f9-2021-lk21.jpg" group-title="ERnesto Serial Fast and Furious", FAST AND FURIOUS 9 : THE FAST SAGA (2021) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=6bbcb25d23cf4f6d28a9340bd5fa9e4e
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=6bbcb25d23cf4f6d28a9340bd5fa9e4e
 https://video.hownetwork.xyz/yyy/f9-2021-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/05/film-fast-x-2023-lk21-d21.jpg" group-title="ERnesto Serial Fast and Furious", FAST X (2023) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=f7ffd4aef0d41487929b660c2e949a94
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=f7ffd4aef0d41487929b660c2e949a94
 https://video.hownetwork.xyz/yyy/fast-x-2023-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-first-blood-1982.jpg" group-title="ERnesto Serial Sylvester Stallone",  First Blood 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=8eec3d56f4d0d12a8f73a92760b303e5
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=8eec3d56f4d0d12a8f73a92760b303e5
 https://video.hownetwork.xyz/yyy/first-blood-1982-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-rambo-first-blood-part-ii-1985.jpg" group-title="ERnesto Serial Sylvester Stallone", First Blood II 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=00d880050aaea4e1c2f385b5741c9758
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=00d880050aaea4e1c2f385b5741c9758
 https://video.hownetwork.xyz/xxx/rambo-first-blood-part-ii-1985-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-rambo-iii-1988.jpg" group-title="ERnesto Serial Sylvester Stallone", Rambo III 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=22c60dfd0acda57f26844dce3012db81
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=22c60dfd0acda57f26844dce3012db81
 https://video.hownetwork.xyz/yyy/rambo-iii-1988-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-rambo-2008.jpg" group-title="ERnesto Serial Sylvester Stallone", Rambo 2008 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=51129601036febb2ca097762c8c5798d
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=51129601036febb2ca097762c8c5798d
 https://video.hownetwork.xyz/yyy/rambo-2008-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2019/11/film-rambo-last-blood-2019-2-lk21.jpg" group-title="ERnesto Serial Sylvester Stallone", Rambo Last Blood 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=ba988b1448d4820ab49dd036775d773c
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=ba988b1448d4820ab49dd036775d773c
 https://video.hownetwork.xyz/yyy/rambo-last-blood-2019-2-bluray/11/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2016/05/film-the-transporter-2002.jpg" group-title="ERnesto Serial Jason Statham", Transporter 1 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=1a11ff1b3465298bce57a165a98b569a
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=1a11ff1b3465298bce57a165a98b569a
 https://video.hownetwork.xyz/yyy/the-transporter-2002-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2016/05/film-transporter-2-2005.jpg" group-title="ERnesto Serial Jason Statham", Transporter 2  😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=c0d5b6a5706f3625be3c2b1d7707a088
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=c0d5b6a5706f3625be3c2b1d7707a088
 https://video.hownetwork.xyz/xxx/transporter-2-2005-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-transporter-3-2008.jpg" group-title="ERnesto Serial Jason Statham", Transporter 3  😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=a84de559d6f1ac05cfac5c892c8cd398
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=a84de559d6f1ac05cfac5c892c8cd398
 https://video.hownetwork.xyz/xxx/transporter-3-2008-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-the-transporter-refueled-2015.jpg" group-title="ERnesto Serial Jason Statham", Transporter Refueled 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=b33fa57548918725b6e83ecf9ca10426
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=b33fa57548918725b6e83ecf9ca10426
 https://video.hownetwork.xyz/yyy/the-transporter-refueled-2015-bluray/2/480.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-rocky-1976.jpg" group-title="ERnesto Serial Sylvester Stallone", Rocky 1 😎
-#EXTVLCOPT:http-referrer=https:https://furher.in/
+#EXTVLCOPT:http-referrer=https://furher.in/
 https://be2719.rcr22.ams01.cdn112.com/hls2/01/02755/wygnukzd0z4e_n/index-v1-a1.m3u8?t=aYviz2mH6LGYk6pZj7ENB-IfZqNSVJl5ZIfFw80SKcI&s=1697728844&e=43200&f=13779470&srv=22&asn=59150&sp=2500
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-rocky-ii-1979.jpg" group-title="ERnesto Serial Sylvester Stallone", Rocky II 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=8a70bb1c286cd417bb3bc038cac65a9f
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=8a70bb1c286cd417bb3bc038cac65a9f
 https://video.hownetwork.xyz/xxx/rocky-ii-1979-bluray/17/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-rocky-iii-1982.jpg" group-title="ERnesto Serial Sylvester Stallone", Rocky III 😎
-#EXTVLCOPT:http-referrer=https:https://furher.in/
+#EXTVLCOPT:http-referrer=https://furher.in/
 https://be7713.rcr82.waw05.cdn112.com/hls2/01/02755/28t4szdkjb3f_,n,h,x,.urlset/master.m3u8?t=y4uIEfWelROI8tUCdf6WSe4UClyqX-nEa_kLT-kl5XY&s=1697729190&e=43200&f=13779486&srv=22&asn=59150&sp=2500
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-rocky-iv-1985.jpg" group-title="ERnesto Serial Sylvester Stallone", Rocky IV 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=605ecfb6549757e00669d63cf5fb71c9
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=605ecfb6549757e00669d63cf5fb71c9
 https://video.hownetwork.xyz/xxx/rocky-iv-1985-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-rocky-v-1990.jpg" group-title="ERnesto Serial Sylvester Stallone", Rocky V 😎
-#EXTVLCOPT:http-referrer=https:https://furher.in/
+#EXTVLCOPT:http-referrer=https://furher.in/
 https://be2719.rcr22.ams01.cdn112.com/hls2/01/03083/f906bimz0ab3_h/index-v1-a1.m3u8?t=ecHeM40xsQOd62oVhlXyKtregGqMNV72Jb1719AG3sc&s=1697729455&e=43200&f=15418587&srv=26&asn=59150&sp=2500
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-rocky-balboa-2006.jpg" group-title="ERnesto Serial Sylvester Stallone", Rocky Bilbao 😎
-#EXTVLCOPT:http-referrer=https:https://furher.in/
+#EXTVLCOPT:http-referrer=https://furher.in/
 https://be4242.rcr52.ams03.cdn112.com/hls2/02/02755/apungel9atbb_,n,h,x,.urlset/master.m3u8?t=WQkVkN1YHHx5XLfaw4ekAxF7pRLt4YtxwofIsQBmjLY&s=1697729573&e=43200&f=13779480&srv=25&asn=59150&sp=2500
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-creed-2015.jpg" group-title="ERnesto Serial Sylvester Stallone", CREED I 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=9a552bd84c79b86c5196853d956b0fc6
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=9a552bd84c79b86c5196853d956b0fc6
 https://video.hownetwork.xyz/yyy/creed-2015-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2019/02/film-creed-ii-2018-lk21.jpg" group-title="ERnesto Serial Sylvester Stallone", CREED II 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=7390f961024173fc1fcc150ce923ad91
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=7390f961024173fc1fcc150ce923ad91
 https://video.hownetwork.xyz/xxx/creed-ii-2018-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/04/film-creed-iii-2023-lk21-d21.jpg" group-title="ERnesto Serial Sylvester Stallone", CREED III 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=d0710955b8de259d09579a3c72ee0907
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=d0710955b8de259d09579a3c72ee0907
 https://video.hownetwork.xyz/yyy/creed-iii-2023-bluray/9/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2016/01/film-the-expendables-2010.jpg" group-title="ERnesto Serial Sylvester Stallone", THE EXPENDABLES 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=8d94d4ba3633312efdcdd6cb1c7fc0a1
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=8d94d4ba3633312efdcdd6cb1c7fc0a1
 https://video.hownetwork.xyz/yyy/the-expendables-2010-bluray/11/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2017/06/film-the-expendables-2-2012-1.jpg" group-title="ERnesto Serial Sylvester Stallone", THE EXPENDABLES II 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=258240566644c613cbf0bcb71d33f8c3
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=258240566644c613cbf0bcb71d33f8c3
 https://video.hownetwork.xyz/xxx/expendables-2-2012-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/01/film-the-expendables-3-2014.jpg" group-title="ERnesto Serial Sylvester Stallone", THE EXPENDABLES III 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=ed08ab794433072a6ba44132b25cc0d9
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=ed08ab794433072a6ba44132b25cc0d9
 https://video.hownetwork.xyz/xxx/expendables-2-2012-bluray/6/480.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/01/film-parker-2013.jpg" group-title="ERnesto Serial Jason Statham", PARKER 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=b0cc707251012acc279b09597faa3d1a
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=b0cc707251012acc279b09597faa3d1a
 https://video.hownetwork.xyz/yyy/parker-2013-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="ERnesto Serial SPIDERMAN", SPIDERMAN 1 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=d966d6ccde693a6875bc8b06eef0d5de
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=d966d6ccde693a6875bc8b06eef0d5de
 https://video.hownetwork.xyz/yyy/spider-man-2002-bluray/11/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2016/01/film-spider-man-2-2004.jpg" group-title="ERnesto Serial SPIDERMAN", SPIDERMAN 2 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=028740767c26c2e1fb4ea161c14a4dab
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=028740767c26c2e1fb4ea161c14a4dab
 https://video.hownetwork.xyz/yyy/spider-man-2-2004-bluray/11/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-spider-man-3-2007.jpg" group-title="ERnesto Serial SPIDERMAN", SPIDERMAN 3 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=bdb78feca435bcc5b1ee0b85f4b7e5d8
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=bdb78feca435bcc5b1ee0b85f4b7e5d8
 https://video.hownetwork.xyz/yyy/spider-man-3-2007-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-daredevil-2003.jpg" group-title="ERnesto Serial BIOSKOP", DARE DEVIL 😎
-#EXTVLCOPT:http-referrer=https:https://furher.in/
+#EXTVLCOPT:http-referrer=https://furher.in/
 https://be2719.rcr22.ams01.cdn112.com/hls2/02/02754/t6a0ypjqinct_,n,h,.urlset/master.m3u8?t=MTld6ZBxB9oNQGFsVwBQzJUEQ5FVX_eLnG5WhputycI&s=1697730222&e=43200&f=13774399&srv=27&asn=59150&sp=2000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/02/film-the-punisher-2004.jpg" group-title="ERnesto Serial BIOSKOP", THE PUNISHER 😎 
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=349af75c9c98b019d8e6e765780fedec
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=349af75c9c98b019d8e6e765780fedec
 https://video.hownetwork.xyz/yyy/the-punisher-2004-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2016/05/film-punisher-war-zone-2008.jpg" group-title="ERnesto Serial BIOSKOP", PUNISHER WAR ZONE 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=f30b4a4b63057883b35d6db46ef3a8a2
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=f30b4a4b63057883b35d6db46ef3a8a2
 https://video.hownetwork.xyz/yyy/punisher-war-zone-2008-bluray/17/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-ghost-rider-2007.jpg" group-title="ERnesto Serial BIOSKOP", GHOST RIDER 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=10acc76d94114be9c3fa0eaf12cc3024
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=10acc76d94114be9c3fa0eaf12cc3024
 https://video.hownetwork.xyz/yyy/ghost-rider-2007-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/12/film-lara-croft-tomb-raider-2001.jpg" group-title="ERnesto Serial BIOSKOP", LARA CROFT: TOMB RAIDER (2001) 😎
-#EXTVLCOPT:http-referrer=https:https://furher.in/
+#EXTVLCOPT:http-referrer=https://furher.in/
 https://be4235.rcr32.ams02.cdn112.com/hls2/01/02755/tv71lxbuyw8h_n/index-v1-a1.m3u8?t=5xB1HD_RxVzomH1Hx7L1Dnp7gOBXa3XAZNV_88tafOM&s=1697730720&e=43200&f=13777176&srv=22&asn=59150&sp=2000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-lara-croft-tomb-raider-the-cradle-of-life-2003.jpg" group-title="ERnesto Serial BIOSKOP", LARA CROFT TOMB RAIDER: THE CRADLE OF LIFE (2003) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=e7514833ad470b213f936efe4f113c06
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=e7514833ad470b213f936efe4f113c06
 https://video.hownetwork.xyz/yyy/lara-croft-tomb-raider-the-cradle-of-life-2003-bluray/4/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2018/03/film-tomb-raider-2018.jpg" group-title="ERnesto Serial BIOSKOP", Tomb Rider 2018 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=cbd52915d44c58a64fa2781e93cc01f6
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=cbd52915d44c58a64fa2781e93cc01f6
 https://video.hownetwork.xyz/yyy/tomb-raider-2018-bluray/11/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2017/03/film-biker-boyz-2003.jpg" group-title="ERnesto Serial BIOSKOP", Biker Boyz 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=c868229c2a7ee7ceb139c5a9dee4ff7b
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=c868229c2a7ee7ceb139c5a9dee4ff7b
 https://video.hownetwork.xyz/yyy/biker-boyz-2003-bluray/9/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2016/01/film-troy-2004.jpg" group-title="ERnesto Serial BIOSKOP", Troy 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=57bccb62d437d987108c83ef624beadb
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=57bccb62d437d987108c83ef624beadb
 https://video.hownetwork.xyz/yyy/troy-2004-bluray/11/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/01/film-gladiator-2000.jpg" group-title="ERnesto Serial BIOSKOP", Gladiator 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=64d375b0aa44f1b5e35949fe7e40dfaf
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=64d375b0aa44f1b5e35949fe7e40dfaf
 https://video.hownetwork.xyz/yyy/gladiator-2000-bluray/7/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/01/film-300-2006.jpg" group-title="ERnesto Serial BIOSKOP", 300 Spartan 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=cd8c6cee5bf5badb172d2b95d9dabba9
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=cd8c6cee5bf5badb172d2b95d9dabba9
 https://video.hownetwork.xyz/yyy/300-2006-bluray/11/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/02/film-white-house-down-2013.jpg" group-title="ERnesto Serial BIOSKOP", White house down 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=28b26ffe52aefec31f804049290e1263
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=28b26ffe52aefec31f804049290e1263
 https://video.hownetwork.xyz/yyy/white-house-2013-bluray/11/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2018/09/film-the-nun2018-lk21.jpg" group-title="ERnesto Serial BIOSKOP", The Nun 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=28b26ffe52aefec31f804049290e1263
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=28b26ffe52aefec31f804049290e1263
 https://video.hownetwork.xyz/xxx/the-nun2018-bluray/11/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-the-nun-ii-2023-lk21-d21.jpg" group-title="ERnesto Serial BIOSKOP", The Nun II 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=fec6459b81224969253cc09c976f61e8
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=fec6459b81224969253cc09c976f61e8
 https://video.hownetwork.xyz/yyy/the-nun-ii-2023-webdl/5/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2016/01/film-final-destination-2000.jpg" group-title="ERnesto Serial FINAL DESTINATION", Final Destination 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=70ac54704154e64e4178000246863d49
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=70ac54704154e64e4178000246863d49
 https://video.hownetwork.xyz/yyy/final-destination-2000-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-final-destination-2-2003.jpg" group-title="ERnesto Serial FINAL DESTINATION", Final Destination 2 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=17f847d6e10274191222c206d0d6cd06
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=17f847d6e10274191222c206d0d6cd06
 https://video.hownetwork.xyz/yyy/final-destination-2-2003-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/01/film-final-destination-3-2006.jpg" group-title="ERnesto Serial FINAL DESTINATION", Final Destination 3 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=4f714f0ea0faca9923cca7db0447d5fa
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=4f714f0ea0faca9923cca7db0447d5fa
 https://video.hownetwork.xyz/yyy/final-destination-3-2006-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-the-final-destination-2009.jpg" group-title="ERnesto Serial FINAL DESTINATION", The Final Destination 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=d9f67a97ded39c6f5ea1bb63231c79c6
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=d9f67a97ded39c6f5ea1bb63231c79c6
 https://video.hownetwork.xyz/yyy/the-final-destination-2009-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-final-destination-5-2011.jpg" group-title="ERnesto Serial FINAL DESTINATION", Final Destination 5 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=2bcfd087ad1101ef0e26f63ead4a5a28
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=2bcfd087ad1101ef0e26f63ead4a5a28
 https://video.hownetwork.xyz/yyy/final-destination-5-2011-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/01/film-bride-of-chucky-1998.jpg" group-title="ERnesto Serial CHUCKY", BRIDE OF CHUCKY (1998) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=f9ea372dbfdfd14ad3c30e77980884c4
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=f9ea372dbfdfd14ad3c30e77980884c4
 https://video.hownetwork.xyz/yyy/bride-chucky-1998-bluray/16/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/01/film-seed-of-chucky-2004.jpg" group-title="ERnesto Serial CHUCKY", SEED OF CHUCKY (2004) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=5dc147e09431613ce5a4511c833afc1d
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=5dc147e09431613ce5a4511c833afc1d
 https://video.hownetwork.xyz/yyy/seed-chucky-2004-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/01/film-curse-of-chucky-2013.jpg" group-title="ERnesto Serial CHUCKY", CURSE OF CHUCKY (2013) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=fc8b0eb05ef8591876a385407eb147c3
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=fc8b0eb05ef8591876a385407eb147c3
 https://video.hownetwork.xyz/yyy/curse-chucky-2013-bluray/3/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2017/09/film-cult-of-chucky-2017.jpg" group-title="ERnesto Serial CHUCKY", CULT OF CHUCKY (2017) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=5e49c9f5edbd0f04165845b06f339202
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=5e49c9f5edbd0f04165845b06f339202
 https://video.hownetwork.xyz/yyy/cult-chucky-2017-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2017/11/film-dragon-ball-z-le-robot-des-glaces-1990.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL Z: TREE OF MIGHT (DORAGON BÔRU Z: CHIKYÛ MARUGOTO CHÔ KESSEN) (1990) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=7a4eaa722a3a263ba95e79f41a3939bd
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=7a4eaa722a3a263ba95e79f41a3939bd
 https://video.hownetwork.xyz/yyy/dragon-ball-z-le-robot-des-glaces-1990-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2017/11/film-dragon-ball-z-le-robot-des-glaces-1990.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL Z: THE WORLD’S STRONGEST (DORAGON BÔRU Z: KONO YO DE ICHIBAN TSUYOI YATSU) (1990) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=7a4eaa722a3a263ba95e79f41a3939bd
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=7a4eaa722a3a263ba95e79f41a3939bd
 https://video.hownetwork.xyz/yyy/dragon-ball-z-le-robot-des-glaces-1990-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2017/11/film-dragon-ball-z-la-menace-de-namec-1991.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL Z: LORD SLUG (DORAGON BÔRU Z: SÛPÂ SAIYAJIN DA SON GOKÛ) (1991) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=80706d4a8d965881150d982c9be6cfbe
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=80706d4a8d965881150d982c9be6cfbe
 https://video.hownetwork.xyz/yyy/dragon-ball-z-la-menace-de-namec-1991-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2016/09/film-dragon-ball-z-bojack-unbound-1993.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL Z: BOJACK UNBOUND (DORAGON BÔRU Z: GINGA GIRIGIRI!! BUTCHIGIRI NO SUGOI YATSU) (1993) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=a05425f40a328924e3f1b795cc8d1824
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=a05425f40a328924e3f1b795cc8d1824
 https://video.hownetwork.xyz/yyy/dragon-ball-z-bojack-unbound-1993-dvdrip/16/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/09/film-dragon-ball-z-broly-the-legendary-super-saiyan-1993.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL Z: BROLY – THE LEGENDARY SUPER SAIYAN (1993) 😎
-#EXTVLCOPT:http-referrer=https:https://furher.in/
+#EXTVLCOPT:http-referrer=https://furher.in/
 https://be2719.rcr22.ams01.cdn112.com/hls2/02/02754/1qeiwsmzgt0u_,n,h,.urlset/master.m3u8?t=c3ymmcvKflHrOSh-jFcZ8Ep3gRlXh7TlGWUH6c9VbG4&s=1697733615&e=43200&f=13774690&srv=27&asn=59150&sp=2000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2017/11/film-dragon-ball-z-fusions-1995.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL Z: FUSION REBORN (DRAGON BALL Z: FUKKATSU NO FUSION!! GOKUU TO VEGETA) (1995) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=7b5ea3ff1530eea6f08290b647a6d75b
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=7b5ea3ff1530eea6f08290b647a6d75b
 https://video.hownetwork.xyz/yyy/dragon-ball-z-fusions-1995-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2017/04/film-dragon-ball-z-wrath-of-the-dragon-1995.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL Z: WRATH OF THE DRAGON (1995) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=9a1e58988ad07421c571fcd866a9f3be
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=9a1e58988ad07421c571fcd866a9f3be
 https://video.hownetwork.xyz/yyy/dragon-ball-z-wrath-dragon-1995-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-dragon-ball-hey-son-goku-and-friends-return-2008.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL: HEY! SON GOKU AND FRIENDS RETURN!! (DORAGON BÔRU: OSSU! KAETTE KITA SON GOKÛ TO NAKAMA-TACHI!!) (2008) 😎
-#EXTVLCOPT:http-referrer=https:https://furher.in/
+#EXTVLCOPT:http-referrer=https://furher.in/
 https://be4242.rcr52.ams03.cdn112.com/hls2/02/02751/7q3oylgjm82k_n/master.m3u8?t=kJMDPimfN-viXRugzDJ4bqdaIpoSpX88ue6VJwx-c50&s=1697733893&e=43200&f=13755038&srv=25&asn=59150&sp=2000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-dragon-ball-z-battle-of-gods-2013.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL Z: BATTLE OF GODS (DRAGON BALL Z: DORAGON BÔRU Z – KAMI TO KAMI) (2013) 😎
-#EXTVLCOPT:http-referrer=https:https://furher.in/
+#EXTVLCOPT:http-referrer=https://furher.in/
 https://be7713.rcr82.waw05.cdn112.com/hls2/01/02754/mdolxev6gjpn_,n,h,.urlset/master.m3u8?t=px2O7a6pbPRt6nuLm8ntcANLFjq0GrHZM28I7pIUe6o&s=1697734017&e=43200&f=13774703&srv=22&asn=59150&sp=2000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-dragon-ball-z-resurrection-f-2015.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL Z: RESURRECTION ‘F’ (DRAGON BALL Z: DORAGON BÔRU Z – FUKKATSU NO ‘F’) (2015) 😎
-#EXTVLCOPT:http-referrer=https:https://tv1.lk21official.wiki/dragon-ball-z-resurrection-f-2015/#comments
+#EXTVLCOPT:http-referrer=https://tv1.lk21official.wiki/dragon-ball-z-resurrection-f-2015/#comments
 https://tv1.lk21official.wiki/dragon-ball-z-resurrection-f-2015/#comments
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2018/12/film-dragon-ball-super-broly-doragon-boru-cho-burori-dragon-ball-super-broly-2018-lk21.jpg" group-title="ERnesto Serial DRAGON BALL", DRAGON BALL SUPER: BROLY (DORAGON BORU CHO: BURORI – DRAGON BALL SUPER: BROLY) (2018) 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=ba1c5059048498b9754b925ca5
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=ba1c5059048498b9754b925ca5
 https://video.hownetwork.xyz/yyy/dragon-ball-super-broly-doragon-boru-cho-burori-dragon-ball-super-broly-2018-bluray/6/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/01/film-the-last-samurai-2003.jpg" group-title="ERnesto Serial BIOSKOP", The Last Samurai 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=fcc0ccd2799b82ae8f6c9f5c4e3ae6c9
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=fcc0ccd2799b82ae8f6c9f5c4e3ae6c9
 https://video.hownetwork.xyz/yyy/last-samurai-2003-bluray/2/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/ 
 #EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2016/05/film-karate-kid-2010.jpg" group-title="ERnesto Serial BIOSKOP", The Karate KIDS 😎
-#EXTVLCOPT:http-referrer=https:https://video.hownetwork.xyz/video.php?id=6185013399e81e4a5b61516e3d7b7f79
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=6185013399e81e4a5b61516e3d7b7f79
 https://video.hownetwork.xyz/yyy/karate-kid-2010-bluray/7/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/01/film-the-message-1977.jpg" group-title="ERnesto Serial BIOSKOP", The Message (1976) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=6ea7a6b42c55383c85e5e09de8f72210
+https://video.hownetwork.xyz/yyy/the-message-1977-bluray/17/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2016/02/film-muhammad-the-last-prophet-2002.jpg" group-title="ERnesto Serial BIOSKOP", Muhammad: The Last Prophet (2002) 😎
+#EXTVLCOPT:http-referrer=https://furher.in/
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/02755/aevgfqjocu8j_n/index-v1-a1.m3u8?t=zgJ0DC2fGAEFdnyGdsBvToyyrhMppa-XR14NfCunI1E&s=1697777959&e=43200&f=13778298&srv=24&asn=59150&sp=2000
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2017/07/film-muhammad-the-messenger-of-god-2015.jpg" group-title="ERnesto Serial BIOSKOP", MUHAMMAD: THE MESSENGER OF GOD (MOHAMMAD RASOOLOLLAH) (2015) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=f5f11956d996bda09d40cad2593ed8a1
+https://video.hownetwork.xyz/xxx/muhammad-messenger-god-2015-bluray/7/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-exodus-gods-and-kings-2014.jpg" group-title="ERnesto Serial BIOSKOP", Exodus: Gods and Kings 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=1a267831388e643e6efdbf787b348e98
+https://video.hownetwork.xyz/yyy/exodus-gods-kings-2014-bluray/3/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2016/06/film-the-kingdom-of-solomon-2010.jpg" group-title="ERnesto Serial BIOSKOP", The Kingdom Of Solomon 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=486e7d395a179635fc2cb248ba7fe933
+https://video.hownetwork.xyz/yyy/kingdom-solomon-2010-hdrip/8/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/02/film-lion-of-the-desert-1981.jpg" group-title="ERnesto Serial BIOSKOP", Lion of the Desert 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=858e8f980006b3d9bbb3581f3a798c04
+https://video.hownetwork.xyz/yyy/lion-desert-1981-bluray/8/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/01/film-fetih1453-2012.jpg" group-title="ERnesto Serial BIOSKOP", Fetih 1453 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=53055447345e622ffc63fedb8a55219d
+https://video.hownetwork.xyz/yyy/fetih1453-2012-bluray/2/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2018/03/film-bilal-a-new-breed-of-hero-2018.jpg" group-title="ERnesto Serial BIOSKOP", Bilal: A New Breed of Hero (2018) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=e005a73259e5b889dd53482fee89a1d1
+https://video.hownetwork.xyz/yyy/bilal-a-new-breed-of-hero-2018-bluray/6/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/03/film-apocalypto-2006.jpg" group-title="ERnesto Serial BIOSKOP", APOCALYPTO 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=f08bb46b5d95d945e333f9434d317d0d
+https://video.hownetwork.xyz/yyy/apocalypto-2006-bluray/10/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-the-bourne-identity-2002.jpg" group-title="ERnesto Serial BOURNE", THE BOURNE IDENTITY 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=2af24220a06193d09f8eb363fdbc43a4
+https://video.hownetwork.xyz/yyy/the-bourne-identity-2002-bluray/2/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-the-bourne-supremacy-2004.jpg" group-title="ERnesto Serial BOURNE", THE BOURNE SUPREMACY (2004) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=4f77405de4c177bb75f5f2a27f7845bb
+https://video.hownetwork.xyz/yyy/the-bourne-supremacy-2004-bluray/3/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-the-bourne-ultimatum-2007.jpg" group-title="ERnesto Serial BOURNE", THE BOURNE ULTIMATUM (2007) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=ddee841c4a990ee0e346f52878cbf7c0
+https://video.hownetwork.xyz/yyy/the-bourne-ultimatum-2007-bluray/3/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-the-bourne-legacy-2012.jpg" group-title="ERnesto Serial BOURNE", THE BOURNE LEGACY (2012) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=97cb3e1de50c0a1bf669ab9413c15462
+https://video.hownetwork.xyz/yyy/bourne-legacy-2012-bluray/2/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2016/08/film-jason-bourne-2016.jpg" group-title="ERnesto Serial BOURNE", JASON BOURNE (2016) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=32e88ec00eedb34b06a94b39e1638378
+https://video.hownetwork.xyz/yyy/jason-bourne-2016-bluray/3/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-shooter-2007.jpg" group-title="ERnesto Serial BIOSKOP", SHOOTER (2007) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=c5224d0027438886bae637a171b272a9
+https://video.hownetwork.xyz/yyy/shooter-2007-bluray/3/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/11/film-the-jackal-1997.jpg" group-title="ERnesto Serial BIOSKOP", THE JACKAL (1997) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=b3905015846cb15c3dbc1113b3bf48ad
+https://video.hownetwork.xyz/yyy/the-jackal-1997-bluray/9/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-shoot-em-up-2007.jpg" group-title="ERnesto Serial BIOSKOP", SHOOT ‘EM UP (2007) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=ef961d2788cd1c026e70f32703f6ed96
+https://video.hownetwork.xyz/yyy/shoot-em-up-2007-bluray/17/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2016/04/film-new-police-story-2004.jpg" group-title="ERnesto Serial BIOSKOP", NEW POLICE STORY (SAN GING CHAAT GOO SI) (2004) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=28bf99bdca1a3f9ec38818e523acf446
+https://video.hownetwork.xyz/yyy/new-police-story-2004-bluray/17/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-god-of-gamblers-1989.jpg" group-title="ERnesto Serial GOD OF GAMBLErs", GOD OF GAMBLERS (DOU SAN) (1989) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=bbc238e6a9d32b226cf17fda96fdc906
+https://video.hownetwork.xyz/yyy/god-gamblers-1989-bluray/3/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2016/07/film-all-for-the-winner-1990.jpg" group-title="ERnesto Serial GOD OF GAMBLErs", ALL FOR THE WINNER (DOU SING) (1990) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=847b7a828fd224882ea287c2863e063e
+https://video.hownetwork.xyz/yyy/all-for-the-winner-1990-bluray/10/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-god-of-gamblers-ii-1990.jpg" group-title="ERnesto Serial GOD OF GAMBLErs", GOD OF GAMBLERS II (DOU HAP) (1991) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=afbd38699fbbddda9cdba723423a3ddd
+https://video.hownetwork.xyz/yyy/god-gamblers-ii-1990-bluray/2/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-god-of-gamblers-iii-back-to-shanghai-1991.jpg" group-title="ERnesto Serial GOD OF GAMBLErs", GOD OF GAMBLERS III: BACK TO SHANGHAI (DOU HAP II: SEUNG HOI TAAM DOU SING) (1991) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=f20cf19d436560ab81466f1b1ae295b3
+https://video.hownetwork.xyz/yyy/god-gamblers-iii-back-shanghai-1991-bluray/2/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2016/09/film-the-return-of-the-god-of-gamblers-1994.jpg" group-title="ERnesto Serial GOD OF GAMBLErs", THE RETURN OF THE GOD OF GAMBLERS (DOU SAN 2) (1994) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=e18dd15932af6562052144dd8133dddc
+https://video.hownetwork.xyz/yyy/return-god-gamblers-1994-dvdrip/3/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-drunken-master-1978.jpg" group-title="ERnesto Serial BIOSKOP", DRUNKEN MASTER (ZUI QUAN) (1978) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=4bdc0a8f8d95541e835059f92a15cb87
+https://video.hownetwork.xyz/yyy/drunken-master-1978-bluray/16/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/09/film-the-defender-1994.jpg" group-title="ERnesto Serial BIOSKOP", THE BODYGUARD FROM BEIJING (ZHONG NAN HAI BAO BIAO) (1994) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=7d6e2d3f77167b21a5000b25d9442756
+https://video.hownetwork.xyz/yyy/the-defender-1994-bluray/9/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv1.lk21official.wiki/
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-i-am-number-four-2011.jpg" group-title="ERnesto Serial BIOSKOP", I AM NUMBER FOUR (2011) 😎
+#EXTVLCOPT:http-referrer=https://video.hownetwork.xyz/video.php?id=2d5501ae26374b9effae04165c49589a
+https://video.hownetwork.xyz/yyy/i-am-number-four-2011-bluray/3/480.m3u8
