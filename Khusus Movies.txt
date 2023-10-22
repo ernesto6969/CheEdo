@@ -24,6 +24,13 @@ http://23.226.71.77/Gwy4XA15zb7A15WXCHmwoFTjjx-R0xFBunUSBMtBypUpZX5hMMAW3Fa6OCAX
 #EXTVLCOPT:http-referrer=https://199.87.210.226/
 https://wolf.9bg.net/stream/variant/ZQRmL2SuMQSxLzZkMTMwZwR4ZwqwAJAzMQSwAwNjL2IyBTMzMJMuZQOzBQIvZmRjMQSuLJVjMwHmLmOwMQNkAF5cJH4kLzb2rJukpIqeZwEbq1H1MJ9EYzuLAR10oxylrS81F1y6ZmqfpKEDFH5WAKE0ASASFT8koRSJMHq0GUZjnzL5EHMPAz1PARIHnyODH3M6rxy6n0f/ZJVjAGyyLJIuZQDkZQVlAQx0ZwSvBTIvZmSyBTMxLGD1MGx3MGHmZTL3BQyxZTExAQDkZ2V2LJR5ZwxlBGxmLv5WH3ckEJSRE2AZoJMDoRMdEzMVGR1OYxp5o0gyJxyPFQy3HP13naE1Ex9wMJp/ZQp0ZQD3MTL5LmZ5BJSwBQDlBJSzZQOyAwqzZwVkZwN5LGAxZQMwLJMvBGVlZQMvAmIzZQywMwyvBQMvZGuwAv5mEx1WpHuSqKEZMT1hMGDjoJxjpzMOYx4gAJp2AQuVMQqwAGI4pUpjIwR0K2WnoHkEoRACDKOzpRE2pzc6IHkzK0LkZ1IwE0MHIH02BQSMHIVjEJy0AIp.m3u8
 
+ense_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://TERBIT21.COM
+#EXTINF: -1 tvg-logo="https://bit.ly/3tEir51" group-title="ERnesto Serial Movies Indonesia", Galih & Ratna 2017 😎
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://cdn5.t21.link/ads/3/388hero.mp4
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mixdrop.co
 #EXTINF: -1 tvg-logo="https://bit.ly/45GOrmn" group-title="ERnesto Serial Movies Indonesia", Sayap sayap patah 😎
