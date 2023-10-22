@@ -31,10 +31,10 @@ ense_type=com.widevine.alpha
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mixdrop.co
+#KODIPROP:inputstream.adaptive.license_key=https://jwplayer21.com
 #EXTINF: -1 tvg-logo="https://bit.ly/45GOrmn" group-title="ERnesto Serial Movies Indonesia", Sayap sayap patah 😎
-#EXTVLCOPT:http-referrer=https://mixdrop.co/
-https://s-delivery33.mxdcontent.net/v/5446e341ac033575db58eba5659a5a7c.mp4?s=r-KwVis-tUVl9ewj4H1DJA&e=1697852016&_t=1697835336
+#EXTVLCOPT:http-referrer=https://jwplayer21.com/
+https://n22483c.streamvid.net/hls/,n5ajtxxqybmne42h4v3qjcje37ugpxzljlmvqo32dfzc7yic4jp6klndo34q,.urlset/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://TERBIT21.com
