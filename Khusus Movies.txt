@@ -28,7 +28,7 @@ ense_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://TERBIT21.COM
 #EXTINF: -1 tvg-logo="https://bit.ly/3tEir51" group-title="ERnesto Serial Movies Indonesia", Galih & Ratna 2017 😎
 #EXTVLCOPT:http-referrer=https://t21.press/
-https://cdn5.t21.link/ads/3/388hero.mp4
+https://terbit21.pictures/galih-dan-ratna-2017/
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
