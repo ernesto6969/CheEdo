@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/H28zPSm.jpg", K+CINE HD
-#EXTVLCOPT:http-user-agent=mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e943d615dbbb0436c862e9daa56b34c:74345bfdca2c5e494d53a15adaf10a7e
-https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd?|user-agent=mozilla/5.0
