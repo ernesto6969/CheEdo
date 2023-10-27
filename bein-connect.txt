@@ -1,0 +1,35 @@
+
+#EXTINF:-1 tvg-id="" group-title="" group-logo="" tvg-logo="",Bein Sport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NGTP4gAFHJtEOqHpx8ybWQ","kid":"hT0rWi1dGhYibeG08W8k+g"}],"type":"temporary"}
+https://bein-apac-live.akamaized.net/bein/sg_my_bein_sports_01/sg_my_bein_sports_01.isml/playlist.mpd?hdnts=st=1660262400~exp=1696086004~acl=/*~id=AST_FvM7h61PNly4Ks99aFmSBytz3kgE~hmac=0834bd31df87267dcd04f54f39a51d666c713785e50cbc9a6d261e6eac75faf2
+
+#EXTINF:-1 tvg-id="" group-title="" group-logo="" tvg-logo="",Bein Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TqCTlSidPC5jPyTwfBgBaQ","kid":"QNu1abkLXHeY9j7W11d8yw"}],"type":"temporary"}
+https://bein-apac-live.akamaized.net/bein/sea_bein_sports_02/sea_bein_sports_02.isml/playlist.mpd?hdnts=st=1660262400~exp=1696086516~acl=/*~id=AST_FvM7h61PNly4Ks99aFmSBytz3kgE~hmac=ebccf0253d77bfc2f0a66ca810a6b855302b586cd2841d56f314fa29deabd4c1
+
+#EXTINF:-1 tvg-id="" group-title="" group-logo="" tvg-logo="",Bein Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FPhv98dINgNGxtszDFp+eQ","kid":"cwA7MJhlnbzvoV6lr3elAA"}],"type":"temporary"}
+https://bein-apac-live.akamaized.net/bein/my_bein_sports_03/my_bein_sports_03.isml/playlist.mpd?hdnts=st=1660262400~exp=1696087019~acl=/*~id=AST_FvM7h61PNly4Ks99aFmSBytz3kgE~hmac=55a670ba3d8133aa281ad309ac548314e276d623f5cb1de80c2e622bf29bfe8c
+
+#EXTINF:-1 tvg-id="" group-title="" group-logo="" tvg-logo="",MUTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"X0jzI3eS1A2rqV1S0X2wOg","kid":"400/Vt6O1XOEG61mEuJOnA"}],"type":"temporary"}
+https://bein-apac-live.akamaized.net/bein/mutv_bein_sports/mutv_bein_sports.isml/playlist.mpd?hdnts=st=1660262400~exp=1696087359~acl=/*~id=AST_FvM7h61PNly4Ks99aFmSBytz3kgE~hmac=d8c88a63671feae0727672d60583d10c2b1fe312cefc8a6dc5802c4ec551902a
+
+#EXTINF:-1 tvg-id="" group-title="" group-logo="" tvg-logo="",LFCTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RIyzYNTtjBDmUPQacxNLnA","kid":"XFN5pSBbUkIGET0O8r80pw"}],"type":"temporary"}
+https://bein-apac-live.akamaized.net/bein/lfctv_bein_sports/lfctv_bein_sports.isml/playlist.mpd?hdnts=st=1660262400~exp=1696087556~acl=/*~id=AST_FvM7h61PNly4Ks99aFmSBytz3kgE~hmac=488edc542f5707816893b4257a323fcc319ce06c1c24600ea276d82debb13f9a
