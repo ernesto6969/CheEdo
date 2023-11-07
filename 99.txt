@@ -10,9 +10,11 @@ https://www.fcbarcelona.com/fcbarcelona/document/2023/02/16/da82cc8c-b7af-47c4-8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/491pDIr" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", 😎 TRAKTIR 085163732986
 
+//tv1.lk21official.wiki/
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=//tv1.lk21official.wiki/
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVlDjKBfZSajj6DSTPUGaH_rVuNNlmX-rqLQ&usqp=CAU" group-title="ERnesto BARU", AXL
+#KODIPROP:inputstream.adaptive.license_key=https://ganool.wiki
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVlDjKBfZSajj6DSTPUGaH_rVuNNlmX-rqLQ&usqp=CAU" group title="ERnesto BARU", AXL
 #EXTVLCOPT:http-referrer=https://ganool.wiki/
 https://data03.streamku.xyz/f/2018/1/A-X-L.2018.720p.BluRay.x264-%5Bdriveq.xyz%5D.mp4
 
