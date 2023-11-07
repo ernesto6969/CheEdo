@@ -32,7 +32,7 @@ https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/a
 #KODIPROP:inputstream.adaptive.license_key=https://mhdtvworld.me
 #EXTINF: -1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/09/bestth.webp" group-title="ERnesto BARU", Best Triller
 #EXTVLCOPT:http-referrer=https://mhdtvworld.me/
-https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/ea1f4066-1e8b-4cfd-8197-5217d61713ae/0.m3u8
+https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/74ac283f-59c3-4d11-a40a-a1fa9190a761/0.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mhdtvworld.me
