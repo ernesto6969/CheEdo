@@ -79,6 +79,54 @@ https://youtube-hls-m3u8.nixiehai263.repl.co/video/tkDUSYHoKxE.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuKoZVVKWf5oZk5MHSXyiGxqm3mP8KFIDHl_a_cPuQHvoW01FZuPVhHc&s=10" group-title="ERnesto Indonesia", NET
 http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="ERnesto Sport Event Live", TYC Sports
+#EXTVLCOPT:http-referrer=
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0EgcbHdZrIoank_ldFdmuVBHijl9NZgts8A&usqp=CAU" group-title="ERnesto Sport Event Live", Fox Sports
+#EXTVLCOPT:http-referrer=
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0EgcbHdZrIoank_ldFdmuVBHijl9NZgts8A&usqp=CAU" group-title="ERnesto Sport Event Live", Fox Sports 2
+#EXTVLCOPT:http-referrer=
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0EgcbHdZrIoank_ldFdmuVBHijl9NZgts8A&usqp=CAU" group-title="ERnesto Sport Event Live", Fox Sport 3
+#EXTVLCOPT:http-referrer=
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwEB6wRL62r_CtZKh0Ol_-osHQK3MvTtIWQ&usqp=CAU" group-title="ERnesto Sport Event Live", Espn
+#EXTVLCOPT:http-referrer=
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwEB6wRL62r_CtZKh0Ol_-osHQK3MvTtIWQ&usqp=CAU" group-title="ERnesto Sport Event Live", Espn 2
+#EXTVLCOPT:http-referrer=
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwEB6wRL62r_CtZKh0Ol_-osHQK3MvTtIWQ&usqp=CAU" group-title="ERnesto Sport Event Live", Espn 3
+#EXTVLCOPT:http-referrer=
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKTfPB3GgGOgEp7G6NMZaesh5oCR7066ogg&usqp=CAU" group-title="ERnesto Sport Event Live", TNT SPORTS
+#EXTVLCOPT:http-referrer=
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://goal.yalla-shoot-tv.live
